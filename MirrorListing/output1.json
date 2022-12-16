@@ -1,0 +1,204 @@
+
+{
+    "parent": {
+        "sku": "sku1",
+        "title": "test mvl - do not buy - test item this is",
+        "imageIds": "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/RVkAAOSwY2Vjlrjr/$_1.JPG?set_id=2",
+        "variantSKUs": ["sku1_siz_s_col_bla","sku1_siz_m_col_blu","sku1_siz_s_col_blu","sku1_siz_m_col_bla"],
+        "variesBy": {
+            "aspectsImageVariesBy": ["Size"],
+            "specifications": [{"name":"Colour","values": ["Black","Blue"]},{"name":"Size","values": ["S","M"]}]
+            } 
+    },
+    "variation_products": [
+    {
+        "sku": "sku1_siz_s_col_bla", 
+        "aspects": {"Colour": ["Black"],"Size": ["S"]}, 
+        "imageIds": [],
+        "availability": {
+            "shipToLocationAvailability": {
+              "quantity": 10
+            }
+        },
+        "condition": "New with tags",
+        "packageWeightAndSize": {
+            "packageType": "Letter",
+            "weight": {
+              "value": 1,
+              "unit": "KILOGRAM"
+            }
+        },
+        "ean": []
+    },
+    {
+        "sku": "sku1_siz_m_col_blu", 
+        "aspects": {"Colour": ["Blue"],"Size": ["M"]}, 
+        "imageIds": [],
+        "availability": {
+            "shipToLocationAvailability": {
+              "quantity": 10
+            }
+        },
+        "condition": "New with tags",
+        "packageWeightAndSize": {
+            "packageType": "Letter",
+            "weight": {
+              "value": 1,
+              "unit": "KILOGRAM"
+            }
+        },
+        "ean": []
+    },
+    {
+        "sku": "sku1_siz_s_col_blu", 
+        "aspects": {"Colour": ["Blue"],"Size": ["S"]}, 
+        "imageIds": [],
+        "availability": {
+            "shipToLocationAvailability": {
+              "quantity": 10
+            }
+        },
+        "condition": "New with tags",
+        "packageWeightAndSize": {
+            "packageType": "Letter",
+            "weight": {
+              "value": 1,
+              "unit": "KILOGRAM"
+            }
+        },
+        "ean": []
+    },
+    {
+        "sku": "sku1_siz_m_col_bla", 
+        "aspects": {"Colour": ["Black"],"Size": ["M"]}, 
+        "imageIds": [],
+        "availability": {
+            "shipToLocationAvailability": {
+              "quantity": 10
+            }
+        },
+        "condition": "New with tags",
+        "packageWeightAndSize": {
+            "packageType": "Letter",
+            "weight": {
+              "value": 1,
+              "unit": "KILOGRAM"
+            }
+        },
+        "ean": []
+    }],
+    "variation_offers": [
+    {
+        "sku": "sku1_siz_s_col_bla", 
+        "pricingSummary": {
+            "price": {
+                "value": 1.0,
+                "currency": GBP
+            }
+        }, 
+        "availableQuantity": 10,
+        "categoryId": 15687,
+        "ebayCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "storeCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "listingPolicies": {
+            "fulfillmentPolicyId": "190819605024",
+            "paymentPolicyId": "190819606024",
+            "returnPolicyId": "190821047024"
+        },
+        "tax": {
+            "applyTax": false,
+            "vatPercentage": 0.0
+        },
+        "format": "FixedPriceItem",
+        "listingDuration": "GTC"
+    },
+    {
+        "sku": "sku1_siz_m_col_blu", 
+        "pricingSummary": {
+            "price": {
+                "value": 1.0,
+                "currency": GBP
+            }
+        }, 
+        "availableQuantity": 10,
+        "categoryId": 15687,
+        "ebayCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "storeCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "listingPolicies": {
+            "fulfillmentPolicyId": "190819605024",
+            "paymentPolicyId": "190819606024",
+            "returnPolicyId": "190821047024"
+        },
+        "tax": {
+            "applyTax": false,
+            "vatPercentage": 0.0
+        },
+        "format": "FixedPriceItem",
+        "listingDuration": "GTC"
+    },
+    {
+        "sku": "sku1_siz_s_col_blu", 
+        "pricingSummary": {
+            "price": {
+                "value": 1.0,
+                "currency": GBP
+            }
+        }, 
+        "availableQuantity": 10,
+        "categoryId": 15687,
+        "ebayCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "storeCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "listingPolicies": {
+            "fulfillmentPolicyId": "190819605024",
+            "paymentPolicyId": "190819606024",
+            "returnPolicyId": "190821047024"
+        },
+        "tax": {
+            "applyTax": false,
+            "vatPercentage": 0.0
+        },
+        "format": "FixedPriceItem",
+        "listingDuration": "GTC"
+    },
+    {
+        "sku": "sku1_siz_m_col_bla", 
+        "pricingSummary": {
+            "price": {
+                "value": 1.0,
+                "currency": GBP
+            }
+        }, 
+        "availableQuantity": 10,
+        "categoryId": 15687,
+        "ebayCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "storeCategoryNames": [
+            "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        ],
+        "listingPolicies": {
+            "fulfillmentPolicyId": "190819605024",
+            "paymentPolicyId": "190819606024",
+            "returnPolicyId": "190821047024"
+        },
+        "tax": {
+            "applyTax": false,
+            "vatPercentage": 0.0
+        },
+        "format": "FixedPriceItem",
+        "listingDuration": "GTC"
+    }]
+    
+}

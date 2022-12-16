@@ -1,0 +1,22 @@
+step:1
+
+In ebay-config.php change the ebay token and global ID
+
+upload the file
+
+
+step:2
+
+/***Put this in html file***********/
+
+<script type="text/javascript">
+var a = "SRC='http://www.dzine-hub.com/sandbox/A1254NaturalSupplies/bestsellers/1254/display.php";
+document.write ("<script type='text/javascript' "+a+"'>");
+document.write("</scr"+"ipt>");
+</script>
+
+Change the uploded path above script
+
+
+
+refer proj no 654

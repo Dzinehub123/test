@@ -1,0 +1,2046 @@
+{
+    "Timestamp": "2022-12-15T09:44:10.309Z",
+    "Ack": "Success",
+    "Version": "1193",
+    "Build": "E1193_CORE_API_19146280_R1",
+    "Item": {
+        "AutoPay": "true",
+        "BuyerProtection": "ItemIneligible",
+        "BuyItNowPrice": "0.0",
+        "Country": "GB",
+        "Currency": "GBP",
+        "Description": "<font rwr=\"1\" size=\"4\" style=\"font-family:Arial\"><meta name=\"cl-template-id\" content=\"8655215\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\"><link rel=\"stylesheet\" href=\"https:\/\/crazylister.com\/listing-assets\/styles-1.07.css?uniqueHash=68d41d80a464c9100201a84d011b723f&amp;mobileOptimized=true&amp;ste=true\"><link rel=\"stylesheet\" href=\"https:\/\/fonts.googleapis.com\/css?family=Open Sans|Coda|Ubuntu|Oswald|Anton\"><link rel=\"stylesheet\" href=\"https:\/\/netdna.bootstrapcdn.com\/font-awesome\/4.1.0\/css\/font-awesome.min.css\"><link rel=\"stylesheet\" href=\"https:\/\/templates-css.crazylister.com\/8655215\/JnFttHC7QyTeOk4bGDFPd2Dg2eootteu.css\"><div><div id=\"desktop-renderer\"><div id=\"desktop-wrapper\"><div style=\"position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:100%;width:100%;background-color:rgb(189, 207, 193);background-image:linear-gradient(to top, rgba(255, 255, 255, 0) 35%, rgba(255, 255, 255, 0.8) 100%), url(&quot;https:\/\/crazylister.com\/moeditor\/public_html\/images\/patterns\/t5.png&quot;);border:;box-shadow:;z-index:-1100\" data-element-type=\"editor.elements.BackgroundElement\"><\/div><div id=\"desktop-view\"><div style=\"position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:100%;width:100%;background-color:rgb(255, 255, 255);font-family:Arial;z-index:-1000;border-width:0;border-style:none;border-color:rgba(255, 255, 255, 1);box-shadow:rgba(0, 0, 0, 0.247059) 0px 0px 8px;border-radius:0px\" data-element-type=\"editor.elements.PageElement\"><\/div><div style=\"width:100%;min-height:96px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_61\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 50 50\" style=\"height: 100%; width: 100%\"><path d=\"M33.732 31.562c.402.03.805.057 1.2.073a11.873 11.873 0 0 1-3.962 3.712 11.895 11.895 0 0 1-5.195 1.575c.188-.364.375-.735.556-1.112a10.71 10.71 0 0 0 2.775-.73c.01-.02.02-.035.025-.052a.714.714 0 0 1 .133-.23l-.052-.13.117-.166s.13-.213.213-.277c.082-.065.77-.658.92-.77.13-.103.7-.53.95-.735.036-.027.063-.053.086-.07.164-.147.478-.543.59-.724.056-.083.142-.294.222-.497h-.002c.48.052.956.097 1.426.132zm-11.666.808c-.045-.007.013.024.05.045-.01-.024-.027-.04-.05-.045zm8.955-.838c.12.015.277.003.394 0h.035c.114 0 .213-.05.394-.148l.014-.008c-.146-.02-.295-.037-.44-.058s-.293-.04-.44-.062c.104.08.175.146.145.158-.085.035-.232.102-.102.118zm-8.902.883l.002.004c.042.018.025.01-.002-.005zm3.71-8.85l.018.02c.01-.017-.018-.02-.018-.02zm3.963 2.613h-.024l-.023.094c-.104.383-.21.77-.32 1.158.088.002.172.01.172.01s.098-.043.127-.17c.026-.127.1-.27.1-.27l.07.016a.448.448 0 0 0 .06-.214c0-.176-.077-.215-.077-.312 0-.098.038-.332.038-.332l-.122.02zm-.522 1.772l-.053.178.08-.015s.022.056.05.135c.02-.043.032-.076.032-.076s0-.056-.027-.17c-.004-.018-.04-.036-.082-.052zm1.027-3.76l-.025-.014c-.058.236-.112.472-.172.705.04.026.012.034.178.04.236.013.072.013.248.013s.205.02.236-.053c.03-.072.04.04.04-.154a.385.385 0 0 0-.153-.33 1.55 1.55 0 0 0-.352-.207zm11.278 5.25c-.53 1.974-6.28 2.21-13.577.753-2.39 7.048-5.468 11.91-7.44 11.383-1.245-.334-1.798-2.745-1.673-6.31.043.022.086.048.127.07a11.892 11.892 0 0 1-4.36-4.362 11.897 11.897 0 0 1-1.577-5.197c.347.18.7.354 1.057.527a46 46 0 0 0 3.98 1.67h-.005l.004.072-.197.346-.18.114.048.082.034.164h-.1v.36c0 .13.264.182.264.182l-.082.05s.017.082.1.214a1.6 1.6 0 0 1 .18.36c.033.116.082.442.082.442s.215.36.313.512c.1.146.297.345.38.51.08.164.262.08.606.164.346.08.492.196.492.196s.182.147.297.214c.114.064.23.064.54.064.3 0 .105.017.47.074l.06.008c.437.064.09.033.508.224l.017.008c.102.045.156.067.186.082.032.076.018.22.03.278.016.082.13-.016.213-.016.062 0 .077.05.148.094.02.014.047.025.08.037.147.048.18-.05.18-.05l.166.196.13.18-.13.314-.115.114s.017-.147 0-.265c-.02-.115-.116.05-.116.05l-.1.313.36.347.11.098.236.215.015.042.134.386-.02.132.083.215s-.104.045-.198.066a.424.424 0 0 1-.097.016c-.05 0-.106.056-.154.114-.052.062-.093.13-.093.13s.04.074.094.15a.56.56 0 0 0 .12.13c.024.018.045.027.065.044.017.002.034.007.052.01l-.012.02h.002l-.05.083c-.142.247-.32.55-.528.872a11.98 11.98 0 0 1-3.448-1.238l.006.003c.032 2.153.435 3.55 1.224 3.76 1.494.4 3.916-3.577 5.916-9.395-.84-.188-1.695-.4-2.562-.633-9.153-2.454-16.068-6.336-15.443-8.67.334-1.244 2.742-1.797 6.307-1.672l-.12.213a11.878 11.878 0 0 1 4.415-4.446 11.872 11.872 0 0 1 6.032-1.6c-.072 0-.146-.003-.22-.002 1.674-3.148 3.36-4.96 4.602-4.627 2.334.626 2.238 8.557-.215 17.71-.23.866-.478 1.712-.73 2.534 6.038 1.177 10.692 1.07 11.097-.426.21-.788-.797-1.834-2.646-2.938v-.014a12.004 12.004 0 0 1-.65 3.61c-.383.02-.733.022-1.018.022-.23 0-.413-.004-.52-.008-.31-.012-.622-.025-.935-.05.055-.19.104-.333.113-.412.016-.1.072-.255.072-.255l-.367-.085-.043-.24-.155-.027-.142.27s-.11.17-.24.238c-.125.07-.295.084-.295.084l.04-.195c-.068-.03-.21.027-.21.027l-.016-.185s-.084-.185-.154-.196c-.07-.015-.185-.17-.185-.17s-.042-.057-.084-.17a.052.052 0 0 0-.012-.012l.02-.097s.134-.147.245-.278.148.13.262.227c.113.093.075.24.075.24s.074.038.168.038a.15.15 0 0 1 .132.074l.188.074.188-.207s.036-.132.168-.132c.13 0 .02.168.02.264 0 .094.094 0 .355-.112.26-.11.146-.094.392-.226.244-.13.113-.094.205-.168.096-.074.17-.15.17-.15l.205.135.226-.038.226-.132v.17s-.15.188-.057.316c.094.132.11.094.057.263-.057.168-.02.168 0 .263.015.07.02.078.02.12a10.85 10.85 0 0 0-.98-8.628 10.795 10.795 0 0 0-2.868-3.25c.033-.418.06-.832.076-1.244 1.48.986 2.762 2.32 3.71 3.966a11.872 11.872 0 0 1 1.6 5.978l.002-.164c3.142 1.672 4.952 3.355 4.62 4.6zM27.253 16.45s.118-.066.177-.093c.06-.025 0-.032-.06-.074s-.134.034-.134.034-.033.033-.066.108a.087.087 0 0 1-.01.017c-.03.038-.066-.064-.074-.117-.01-.06-.227-.02-.22-.02.01 0 .052.11.052.11s.018.102.018.143c0 .043 0 .117.033.168.032.05.124.127.124.127l.067-.042.025-.017.102-.167.084-.075-.117-.1zm-1.344-.744s.013-.12.078-.104c.066.012.132-.158.132-.158s-.054-.105-.118-.105c-.066 0-.21.014-.21.014l-.04-.08s-.08-.012-.186.027c-.106.04-.133-.053-.133-.053l-.013-.158-.146.04-.105-.093s-.04-.08.025-.08.157.015.157.015l.133-.093-.053-.104.09-.104s-.182-.094-.223-.025c-.04.065-.186.12-.186.12s.014-.04-.065-.147c-.08-.106.038-.158-.134-.12a.62.62 0 0 0-.232.112c-.037.026-.058.047-.058.047s-.185.04-.196.105c-.015.064.224.105.224.105s.013-.018.03-.035c.035-.038.098-.09.142-.044.065.065.118.146.118.146l-.25.13-.01-.008-.123-.098h-.25l-.117.053-.238.026s.04.118.04.185-.105.133-.105.133l-.14-.012h-.02l-.145.104s-.158.013-.224.064a.067.067 0 0 1-.033.018c-.06.016-.124-.025-.124.062 0 .105.013.158-.065.172l-.062.012-.188.04s-.08.04-.146.106c-.064.064-.21.105-.21.105l-.022-.005-.242-.048-.342.146-.01.02-.07.166-.225.025s-.185.092-.196.157c-.007.033-.042.064-.074.086-.03.02-.058.033-.058.033s-.132.054-.198.105c-.065.052-.146.157-.146.157l-.054.12.094.132-.21.025.024.104c.105.105.172.158.237.105.064-.055.025-.095.103-.12l.203-.07c.053-.02.1-.037.127-.05.065-.024.172-.117.25-.117.08 0 .158-.013.158-.013l.032-.025.18-.146.21.093.173-.026s0 .043.03.076c.013.012.028.02.05.028.078.027.197.027.197.027s.065-.093.158-.093h.236l.027-.118.15.07.02.01.12.09s-.054.015.078.067c.08.03.156.02.203.006a.29.29 0 0 0 .05-.02l.224.052s.014-.21-.053-.21c-.068 0-.197-.066-.197-.066l.145-.053.158-.026.04.172.25-.08-.04-.146.014-.225.237.038.015.158s.046.02.097.032c.056.015.114.017.114-.032 0-.093-.053-.158.013-.158s.198-.04.198-.04l.064-.093.093-.21.104.158.145-.093-.027-.133.316-.146s.186-.025.266-.025c.078 0 .104-.024.104-.024s.053-.105-.026-.105c-.075.003-.14-.06-.14-.06zm-3.153 5.105l-.132.063.304.146.148.007.112.006s.08-.133.094-.264c.006-.063.02-.09.045-.108.026-.02.067-.035.125-.078.104-.078.08-.105.054-.184-.022-.06-.126-.053-.18-.045l-.033.004-.22.108-.018.01-.106-.133-.146.04-.145.146c-.014-.013.094.015.094.015s.038-.014.145 0c.105.014-.026.105-.026.105l-.21.053.09.106zm.502-3.087l-.182.012h-.005s-.035.188.005.3l.008.02c.038.074.115.15.243.167.05.008.108.006.18-.01.116-.025.152-.033.16-.033l-.017.005s.023-.006.016-.006l.08-.032.103-.04s.17-.105.17-.198c0-.094-.146-.065-.264-.065h-.01c-.108 0-.1-.017-.15-.146-.052-.134-.052.077-.052.077s-.053-.012-.104-.13c-.054-.12-.066-.212-.066-.212l-.047.024-.148.08.04.078.037.105zm-.134 3.784s.053.065.133.173c.032.045.054.03.07 0 .02-.04.035-.106.072-.106.065 0 .014.106.093.093s.25-.014.25-.014l.005.005.114.127s.132-.065.145-.132c.013-.065.013-.065.118-.065s.066-.014.198-.12c.132-.103-.04-.195-.146-.25-.106-.052-.015-.145-.015-.145l.015-.186s0-.064-.015-.158c-.013-.093-.04-.16-.052-.25-.014-.093-.105-.066-.105-.066v-.12s.197 0 .264-.025c.065-.026 0-.16 0-.16s-.157-.063-.276-.103c-.12-.04-.04-.065.158-.08.196-.012.026-.104.026-.104l-.158-.092s-.08.106-.21.16a.174.174 0 0 0-.063.036c-.048.045-.017.1-.058.16v.105l.057.1.034.06s-.012.055-.035.112a.41.41 0 0 1-.045.086c-.053.08.026.172.026.172s0 .17-.025.265c-.026.092-.226-.08-.226-.08l-.04.225h-.182l.025.12.045.033.073.058.08.12-.152-.055-.07-.024-.132.127zm-2.07-5.948l-.224.237s.197.04.264.025c.04-.008.146-.078.256-.154.08-.055.16-.11.22-.148.146-.093.198-.065.198-.065l.053.104-.317.185.37-.053.044-.04.142-.132.146-.172.224.014.084-.03.192-.074s.158-.104.226-.225c.05-.093.086-.04.15-.025a.12.12 0 0 0 .06 0c.105-.026.054-.12.054-.212 0-.045.062-.05.138-.048.076.002.165.01.206-.02.078-.053-.066-.157-.172-.185l-.034-.008c-.083-.02-.126-.03-.138-.11-.008-.048-.057-.063-.113-.06a.32.32 0 0 0-.15.046c-.078.055-.236.066-.185-.038.008-.017.02-.022.028-.033-.41.085-.817.195-1.223.33.092-.002.13.005.19.005.08 0-.078.093-.078.093s-.237.08-.304.133l-.008.008c-.057.054-.03.14-.03.14h.03c.043-.002.12-.005.166-.015.066-.015.12-.04.29-.146.056-.033.088-.05.11-.062.05-.02.052-.01.114-.044.092-.054.025.146.025.146l.25-.093.202-.01.074-.003.08-.146-.154-.033-.084-.02.08-.078h.004c.037 0 .266 0 .338.015.08.012 0 .104 0 .104l-.025.105-.092.172s-.12.014-.21.014h-.01c-.09.007-.19.106-.19.106l-.184.13h-.266l-.04.147-.21-.025s-.026-.066-.04-.158c-.014-.094-.105 0-.105 0s-.038.156-.128.224a.128.128 0 0 1-.058.026c-.13.027-.237.16-.237.16zm2.874-1.397c-.113.01-.226.02-.338.035.014.003.025.01.062.016.078.013.013.04.013.104 0 .043.02.06.084.072.034.006.08.012.143.02.185.027.064-.053.04-.21-.003-.014-.005-.027-.003-.037zm-.71.155s.013-.027.024-.067c-.02.005-.038.007-.057.01.027.023.032.058.032.058zm1.51-.207a.195.195 0 0 0-.02.104c.013.118.04 0 .118-.026.048-.017.06-.035.068-.078h-.166zM17 17.606l.166.01.21-.13.212.063-.12.055s-.116.17-.144.25c-.027.078.316.064.316.064s.092-.25.092-.355c0-.104.277-.172.277-.172l.077-.21.133.093s.078-.146.065-.21c-.015-.067-.25-.08-.25-.08l.235-.12.238.066-.054.46h.237l.054.08s-.33.184-.396.184c-.064 0-.21.173-.21.173l-.132.146s.053.08.157.105c.104.025.104.092.104.092s.146-.053.146-.132-.053-.104-.053-.104l.197-.225c.078-.094.5-.278.58-.37.078-.093.025-.158.025-.158l.198-.12s.053-.25.08-.314c.024-.065.302-.198.5-.343.198-.146.225-.158.487-.225.265-.066.08-.094.065-.173-.013-.08-.224.106-.224.106l-.316-.094s.132 0 .264-.105c.133-.104.105-.026.197-.065.094-.04.066-.08.066-.08h.144s.12-.117.186-.224c.065-.104.21-.304.21-.304s-.328.186-.395.21c-.064.026-.17-.024-.25-.024-.08 0-.197.13-.33.184a3.275 3.275 0 0 0-.277.133l-.196-.04-.158.065-.383.158s.066-.052.227-.145l.315-.186.25-.064.022-.13c-.1.055-.2.105-.303.163a11.07 11.07 0 0 0-2.54 2.04zm9.926 10.734c.266-.846.52-1.72.762-2.62 2.136-7.965 2.383-14.82.554-15.31-.788-.212-1.833.795-2.938 2.644h-.035c1.238.03 2.465.25 3.63.653.022.38.024.733.023 1.017 0 .23-.003.414-.007.52-.036 1.002-.127 2.027-.26 3.06a.653.653 0 0 0-.153-.034c-.142-.01-.146-.002-.144 0-.003-.002-.12-.1-.163-.175-.045-.075-.13-.13-.295-.186-.163-.057-.152.064-.152.064s-.152.108-.35.088c-.188-.022-.235.19-.238.205l-.143.12s-.077.132-.165.132-.152.02-.152.02-.043.163-.043.25c0 .088-.088.1-.088.1s-.11.02-.186.055c-.076.03-.152.076-.23.12-.075.042-.043.075-.195.163-.15.086-.206.12-.206.12l-.207.042.108.11-.164.032s-.01.098.01.174c.022.076.19.088.19.088s-.11.087-.242.143c-.13.055-.13.075-.12.13.01.056.087.175.305.23.22.055.065-.01.163-.064.1-.056.207-.088.207-.088s.133.22.133.316c0 .098-.033.284-.02.35.01.066.118-.02.118-.02l-.098.107s.02.196.02.252c0 .054.195.02.195-.034 0-.053.11-.143.273-.152.163-.01.142-.032.142-.163 0-.13.033-.305.033-.305l.186-.055s.107-.08.177-.146a.35.35 0 0 0 .044-.05c.022-.035-.004-.07-.043-.104-.032-.027-.073-.056-.1-.08-.055-.055-.076-.23-.076-.34 0-.107 0-.064.013-.14.01-.07.092-.076.164-.093l.022-.006c.076-.02.174-.15.315-.218.142-.067-.076-.076-.076-.076s.023-.12.045-.22c.02-.098.305.034.305.034l.11.13-.132.1-.15.226-.218.284.175.457s.15.076.25.064a.53.53 0 0 0 .272-.118c.028-.022.167-.06.32-.094l-.052.305c-.05.02-.105-.02-.23-.02-.17 0-.215.077-.37.092-.154.017-.06.124-.06.2s.216.17.216.17l-.17.11s-.077-.17-.23-.155-.093.216-.187.293c-.092.077.062.31.062.31s-.11.014-.213.07c-.012.01-.023.015-.035.022-.107.076-.14.016-.14.016s-.06-.092-.138-.092c-.08 0-.19.123-.266.153-.078.032-.34 0-.34 0l-.17-.185-.142.14s-.123-.03-.2-.124c-.076-.092 0-.075-.017-.153-.015-.077-.046-.077-.046-.077l.076-.123.2-.124s.047-.277-.046-.4c-.094-.125-.094.123-.094.123l-.31.2.017.418-.063.185-.12-.03-.077.093s-.078-.047-.2-.093c-.125-.047-.34.154-.34.154l-.03.07-.048.114-.17-.03-.093.107h-.187c-.08 0-.03.14-.03.14s-.054.06-.114.084l-.026-.037c-.09-.012-.113 0-.168.045a.27.27 0 0 1-.1.043.786.786 0 0 1-.08.015l-.08-.202s-.056-.103-.11-.022c-.058.08-.036.136-.036.136l.023.137-.113.01-.022-.006-.056-.016-.195-.117-.03-.017s-.134-.023-.11.066c.02.09.135.202.135.26 0 .006.003.01.007.014.033.04.195.027.195.1 0 .078-.103.168-.103.168s.08.066.08.17c0 .1-.024.246-.047.312-.022.067-.078.045-.1.113-.007.017-.018.035-.028.054-.035.058-.085.113-.085.113s-.17.045-.226.022c-.058-.023-.103-.104-.203-.124a.137.137 0 0 0-.055-.004c-.04.005-.046.026-.146-.042-.137-.09-.18-.124-.27-.157-.09-.032-.136-.112-.136-.112l-.04-.022a.39.39 0 0 0-.14-.055c-.057 0-.146.102-.146.102s.02.09 0 .202c-.02.112.02.17-.045.214s-.08.012-.09.103c-.012.09.045.045-.045.135-.08.082-.044.08-.102.12l-.022.016c-.09.057-.124.045-.18.136a.51.51 0 0 0-.08.27c0 .078.247.36.247.36l.035.01c.04.01.102.038.102.09 0 .08-.092.114 0 .17.09.058.045.067.1.103.028.016.197.053.365.088.184.037.367.07.367.07l.124-.09h.213l.056-.19.17-.012.01-.182s-.02-.18.034-.18c.027 0 .11-.047.188-.094.078-.048.15-.098.15-.098s.043.01.1.017c.087.014.203.023.238-.005.057-.045.18-.226.18-.226s-.025-.145.004-.206c.01-.02.02-.03.04-.03.09 0 .306.012.373.08.067.065.235.155.304.145.06-.012.15-.07.22-.118l.027-.02c.024-.018.09-.064.164-.12l.005.01s.157.02.202.1c.045.08.067.226.045.315-.022.088.146.168.202.235s.328.428.417.54c.09.11.27.314.27.314l.09.215-.19.136s-.203-.012-.27-.034c-.07-.022-.124.045-.124.045s-.047-.022-.147-.112c-.103-.09-.034.012-.16.08-.122.066.16.168.228.225.066.058.156.156.2.215.046.056.16-.02.16-.112s.01-.17.01-.17h.202l.125-.145.103-.09.045-.124-.08-.225s.138-.046.19-.046c.058 0 .113.17.113.17l.058.02s0-.134-.034-.19c-.033-.057-.214-.19-.214-.19s-.202-.08-.26-.124c-.057-.045-.19-.28-.26-.404-.066-.124-.02-.137-.032-.19-.012-.058-.125-.125-.17-.202-.045-.08-.032-.19-.032-.19s.102-.068.214-.136c.04-.024.06-.04.062-.05.045.046.162.18.162.263 0 .103.045.215.067.282.022.066.157.123.338.157.18.032.123.156.123.156s.17.202.19.338c.02.135.02.202.033.37.013.17.093.19.147.352.057.155.077.155.112.278.015.058.026.114.046.17-.11.413-.23.83-.354 1.247-.105.1-.18.455-.18.455s-.035.02-.084.032l-.233-.057c-.118-.127-.392-.177-.536-.27-.148-.1-.148-.313-.264-.412-.115-.1-.197-.05-.197-.05s-.33-.065-.396-.147c-.035-.043-.094-.11-.14-.162-.042-.048-.075-.082-.075-.082s.03-.03.073-.065a.46.46 0 0 1 .156-.098c.08-.018-.034-.183-.133-.347s.263-.214.246-.296c-.017-.08-.173-.083-.27-.13l-.01-.002c-.1-.05-.327 0-.327 0l-.313-.065s-.1.032-.18.065c-.03.012-.068.006-.107-.014a.396.396 0 0 1-.188-.187c-.045-.09-.138-.07-.23-.077a.294.294 0 0 1-.13-.037.21.21 0 0 0-.122-.035c-.072.002-.14.04-.225.053-.106.015-.25.05-.343.062a.267.267 0 0 1-.05.006c-.083 0-.183.064-.297.13-.115.066-.147-.18-.147-.18s-.035 0-.1-.012a1.605 1.605 0 0 1-.296-.087c-.246-.1-.132-.248-.132-.248s-.045.037-.14.12c-.03.025-.064.058-.105.094-.165.146-.214.213-.362.197-.146-.018-.23.05-.328.1-.09.045-.292.395-.322.45-1.96-.672-3.896-1.462-5.646-2.39a20.185 20.185 0 0 1-1.324-.78c.235-1.22.66-2.395 1.258-3.486-.01.014-.018.027-.023.043-2.153.032-3.55.436-3.76 1.222-.49 1.83 5.572 5.043 13.537 7.18.905.23 1.79.444 2.656.637zm-2.42-3.367c-.056.02-.056.144-.056.144s.044.055.1.065a.32.32 0 0 0 .137-.01c.026-.005.06-.013.095-.023.108-.033.043-.09.065-.165.02-.077.02-.178.065-.254s-.09-.132-.09-.132-.1.144-.138.202l-.004.007a.504.504 0 0 1-.175.166zm.18-.59c.06-.01.19-.046.217-.115.03-.088.02-.043.055-.143s-.09.033-.09.033l-.143.088-.04.085-.025.06s.01 0 .026-.006z\" fill=\"rgba(77, 182, 172, 1)\"><\/path><\/svg><\/div><\/div><div id=\"elm_4\" data-element-type=\"editor.elements.ShapeElement\"><\/div><div id=\"elm_2\" data-element-type=\"editor.elements.TitleElement\"><div style=\"font-family:Anton;color:rgba(255, 193, 7, 1);font-size:55px;text-decoration:none;text-align:center;direction:ltr;padding:0px;letter-spacing:0px\">APPAREL DIRECT ONLINE<\/div><\/div><div id=\"element1qq1a_48\" data-element-type=\"editor.elements.TitleElement\"><div style=\"color:rgb(255, 255, 255);font-size:20px;font-weight:400;text-decoration:none;font-style:normal;text-align:center;direction:ltr;font-family:Oswald;letter-spacing:-0.3px\">Fast Shipping<\/div><\/div><\/div><div style=\"width:100%;min-height:137px;position:relative;display:flex;align-items:flex-start\"><div id=\"element1qq1a_49\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 491.7 491.7\" id=\"elm_532_icon\" src=\"https:\/\/img.crazylister.com\/public\/icons\/Electronic%20Commerce\/delivery52.svg\"><path d=\"M152.49 261.67H16.6c-9.176 0-16.6 7.43-16.6 16.597 0 9.165 7.423 16.597 16.6 16.597h135.89c9.174 0 16.598-7.432 16.598-16.597 0-9.167-7.424-16.596-16.597-16.596zM169.087 195.28H66.392c-9.176 0-16.6 7.432-16.6 16.6 0 9.164 7.424 16.596 16.6 16.596h102.696c9.173 0 16.597-7.432 16.597-16.596 0-9.17-7.424-16.6-16.598-16.6zM185.684 128.89h-69.5c-9.176 0-16.6 7.432-16.6 16.597 0 9.167 7.424 16.6 16.6 16.6h69.5c9.176 0 16.6-7.433 16.6-16.6 0-9.165-7.424-16.596-16.6-16.596zM380.136 278.445c-35.658 0-64.654 29.005-64.654 64.663 0 35.65 28.996 64.656 64.654 64.656 35.643 0 64.656-29.005 64.656-64.656 0-35.658-29.013-64.663-64.656-64.663zm0 96.123c-17.358 0-31.46-14.108-31.46-31.46 0-17.35 14.102-31.467 31.46-31.467 17.36 0 31.46 14.118 31.46 31.468s-14.1 31.46-31.46 31.46z\" fill=\"#ffffff\"><\/path><path d=\"M448.294 212.03l-10.405-.088a11.13 11.13 0 0 1-10.376-7.326l-41.04-113.354a11.108 11.108 0 0 0-10.456-7.326H261.573c-5.317 0-9.888 3.77-10.894 8.99L205.2 326.58c-.616 3.26.226 6.63 2.334 9.19a11.092 11.092 0 0 0 8.573 4.045h74.804c1.782-47.83 40.974-86.27 89.226-86.27s87.446 38.44 89.228 86.27h11.215c6.145 0 11.12-4.976 11.12-11.108v-72.923c0-24.03-19.37-43.56-43.406-43.756zM387.3 177.5a6.434 6.434 0 0 1-5.136 2.567h-115.26a6.372 6.372 0 0 1-4.894-2.27 6.406 6.406 0 0 1-1.425-5.194l9.61-57.72a6.422 6.422 0 0 1 6.323-5.353h88.676a6.397 6.397 0 0 1 6.142 4.603l16.988 57.718a6.41 6.41 0 0 1-1.023 5.65z\" fill=\"#ffffff\"><\/path><\/svg><\/div><\/div><div id=\"element_45\" data-element-type=\"editor.elements.GalleryElement\" data-cl-template-tag=\"editor.elements.GalleryElement\"><div class=\"cl-gallery-el-wrapper\"><input type=\"radio\" id=\"cl-gallery-el-slide1-element_45\" name=\"cl-gallery-el-slides-element_45\" data-interactive=\"true\" checked=\"\"><input type=\"radio\" id=\"cl-gallery-el-slide2-element_45\" name=\"cl-gallery-el-slides-element_45\" data-interactive=\"true\"><div class=\"cl-gallery-el-slider-content\"><div class=\"cl-gallery-el-slide cl-gallery-el-slide1-element_45\" style=\"height:calc(100% - 0px);padding-top:20px;padding-left:20px;padding-right:20px;padding-bottom:20px\"><span style=\"background-image: url('https:\/\/i.ebayimg.com\/images\/g\/5NEAAOSwDDNhTMyZ\/s-l1600.jpg')\"><\/span><\/div><div class=\"cl-gallery-el-slide cl-gallery-el-slide2-element_45\" style=\"height:calc(100% - 0px);padding-top:20px;padding-left:20px;padding-right:20px;padding-bottom:20px\"><span style=\"background-image: url('https:\/\/i.ebayimg.com\/images\/g\/h-UAAOSwU-hhTMyh\/s-l1600.jpg')\"><\/span><\/div><\/div><div class=\"cl-gallery-el-slider-arrow-nav\"><label for=\"cl-gallery-el-slide1-element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-prev\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-prev\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><label for=\"cl-gallery-el-slide2-element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-prev\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-prev\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><\/div><div class=\"cl-gallery-el-slider-arrow-nav\"><label for=\"cl-gallery-el-slide1-element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-next\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-next\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><label for=\"cl-gallery-el-slide2-element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-next\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-next\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><\/div><\/div><\/div><div id=\"element_47\" data-element-type=\"editor.elements.TitleElement\" data-cl-template-tag=\"title\"><div style=\"color:rgba(1, 110, 104, 1);font-size:28px;font-style:normal;text-align:center;text-decoration:none;font-family:Anton\">Mens Long Sleeve T-Shirt 100% Cotton Plain Crew Round Neck Casual\nTee Tops S-3XL<\/div><\/div><\/div><div style=\"width:100%;min-height:888.5px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_51\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:24px\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Shipping<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"element_46\" style=\"transition-property:border-radius, padding;transition-duration:50ms;transition-timing-function:ease-in-out;position:relative;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:355px;width:804px;z-index:4;margin-left:-119px;margin-top:548px;margin-bottom:-14.5px;flex-grow:0;flex-shrink:0;display:inline-block;vertical-align:top;word-wrap:break-word;overflow-y:auto;padding-bottom:0\" data-element-type=\"editor.elements.TitleElement\" data-exclude-css-removal=\"true\" data-cl-template-tag=\"description\"><div style=\"color:rgb(83, 83, 83);font-size:16px;font-style:normal;text-align:left;text-decoration:none;font-family:Ubuntu\"><div><div data-exclude-css-removal=\"true\" data-cl-template-tag=\"description\"><div>\n<div><b>Description<\/b><\/div><div><ul><li>Top Quality 100%&nbsp; Cotton for a Softer Touch.<\/li><li>Sizes Available from Small to 3XL.<\/li><li>Plain Full Sleeve T Shirt Ideal For Casual, Family, Work Wear.<\/li><li>Neck Line: Crew Neck.<\/li><li>Taped Shoulder To Shoulder.<\/li><li>Twin Needle Stitching On Back And Shoulder.<\/li><li>All Colour 100% Cotton.<\/li><li>Grey Melange : 85% Cotton &amp; 15% Viscose<\/li><li>Theme: EveryDay.<\/li><li>Pattern: No Pattern.<\/li><li>Style: Casual.<\/li><li>Design: Plain Basic.<\/li><li>Fit: Regular Fit.<\/li><\/ul><\/div>\n<\/div><\/div>\n<\/div><\/div><\/div><div id=\"elementwl6l0n_53\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align: center;\"><strong>Measurement (Approximate)<\/strong><\/p><p><br><\/p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:464px\" class=\" cke_show_border\"><tbody><tr><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>SIZE<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>&nbsp;&nbsp; CHEST<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>&nbsp; PIT TO PIT<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>&nbsp; PIT TO PIT<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>SLEEVE<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>LENGTH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>LENGTH<\/strong><\/span><\/td><\/tr><tr><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>CM<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size:11px\"><strong>CM<\/strong><\/span><\/td><\/tr><tr><td style=\"text-align:center\">SMALL<\/td><td style=\"text-align:center\">37-39<\/td><td style=\"text-align:center\">19.5<\/td><td style=\"text-align:center\">50<\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\">69.5<\/td><\/tr><tr><td style=\"text-align:center\">MEDIUM<\/td><td style=\"text-align:center\">39-41<\/td><td style=\"text-align:center\">20.5<\/td><td style=\"text-align:center\">53<\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\">71.5<\/td><\/tr><tr><td style=\"text-align:center\">LARGE<\/td><td style=\"text-align:center\">42-44<\/td><td style=\"text-align:center\">22<\/td><td style=\"text-align:center\">56<\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\">73.5<\/td><\/tr><tr><td style=\"text-align:center\">X-LARGE<\/td><td style=\"text-align:center\">44-46<\/td><td style=\"text-align:center\">23<\/td><td style=\"text-align:center\">59<\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\">75.5<\/td><\/tr><tr><td style=\"text-align:center\">XX-LARGE<br>3XL<\/td><td style=\"text-align:center\">46-48<br>50-52<\/td><td style=\"text-align:center\">24.5<br>25.5<\/td><td style=\"text-align:center\">62<br>65<\/td><td style=\"text-align:center\"><\/td><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\">77.5<br>79.5<\/td><\/tr><\/tbody><\/table><\/div><\/div><\/div><div style=\"width:100%;min-height:192px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_55\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 50 50\" style=\"height: 100%; width: 100%\"><path d=\"M16.316 20.448c.104.115.154.293.154.53s-.056.415-.166.53c-.113.114-.285.17-.517.17h-1.022v-1.404h1.072c.216 0 .375.058.48.174zm27.786 5.35l-.185 2.887-.798.554v1.78h-1.425c.086.292.134.602.134.92a3.32 3.32 0 0 1-3.318 3.316 3.32 3.32 0 0 1-3.316-3.316c0-.21.02-.413.06-.61-.23.067-.427.06-.427.06h-6.082c-.185-.37.246-.738.246-.738H34.4c.612-.43-.063-.736-.063-.736H28.81c-.615.185-.738 1.166-.738 1.166H15.727v-1.104h-.836c.407.55.65 1.23.65 1.966 0 1.83-1.487 3.316-3.315 3.316S8.91 33.773 8.91 31.944c0-.736.243-1.414.65-1.966H9.09c-1.72 0-3.193-.554-3.193-.554V27.46h2.38a1.335 1.335 0 0 1-.16-.64V16.093c0-.746.604-1.35 1.35-1.35h17.124a1.35 1.35 0 0 1 1.352 1.35v10.724c0 .23-.06.45-.16.64h1.27V16.156h7.187l3.624 5.098c3.07.492 2.58 1.66 2.58 1.66h-.8v1.534h1.536v.982l.92.367zm-33.866-1.222h.895v-2.188h1.898v-.924H11.13v-1.17h2.145v-.923h-3.04v5.206zm3.83 7.362a1.844 1.844 0 0 0-3.686 0 1.844 1.844 0 0 0 3.686 0zm3.375-7.497a.28.28 0 0 1-.14-.18 1.97 1.97 0 0 1-.035-.457v-.583c0-.496-.14-.85-.418-1.06a.774.774 0 0 0-.113-.07c.095-.052.18-.117.255-.195.252-.257.377-.613.377-1.07 0-.473-.125-.834-.376-1.082-.252-.248-.617-.372-1.1-.372H13.87v5.206h.895V22.55h.986c.228 0 .39.063.483.188.094.124.14.33.134.62l-.005.3c-.002.16.008.328.027.505.02.177.044.314.075.41h.975v-.132zm3.96-.79h-2.344v-1.34h2.067v-.924h-2.067v-1.09h2.262v-.925H18.16v5.205h3.24v-.925zm3.966 0H23.02v-1.34h2.068v-.924H23.02v-1.09h2.265v-.925h-3.16v5.205h3.24v-.925zm7.31-1.6H30.53v.86c2.826 0 2.15-.86 2.15-.86zm5.53-.06L35.5 17.32h-4.73l-.06 3.87 4.358-.06.492.858h2.643zm2.148 9.948a1.844 1.844 0 0 0-3.686 0c0 1.017.827 1.843 1.843 1.843a1.845 1.845 0 0 0 1.844-1.842z\" fill=\"rgba(56, 142, 60, 1)\"><\/path><\/svg><\/div><\/div><div id=\"elementkan0gl_52\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align:justify\"><span style=\"color:#808080;\">We offer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;shipping on all orders!<\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">We dispatch any order made before 12:00 pm on the same working day (weekends, public holidays and bank holidays are not considered as a working day). Orders placed after 1:00 pm will normally be posted on the next working day.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">Any order made on weekends, public holidays or bank holidays will be dispatched on the next working day.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">If you have not received your item within the specified time frame please contact us as soon as possible.<\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:57px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_48\" data-element-type=\"editor.elements.ImageElement\"><img src=\"https:\/\/resized-images.crazylister.com\/68747470733a2f2f696d672e6372617a796c69737465722e636f6d2f3139303537352f696d616765732f50617970616c2e6a70673f76657273696f6e49643d474d3757615a554671557974465536636c486f545752376a41416737595f5954\/auto\/66.jpg\" width=\"100%\" height=\"100%\" title=\"\" style=\"border:0\"><\/div><div id=\"elementkan0gl_49\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:24px;\"><span style=\"font-family:coda;\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Payment<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"elementkan0gl_50\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:14px;\"><span style=\"color:#696969\"><span style=\"font-family:open sans\">We accept payment by&nbsp;<\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:84px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_56\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:24px\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Returns<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"elementkan0gl_57\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">If you are not completely satisfied with your purchase, simply return the item(s) to us in their original condition within 30 days of receipt.<\/span><\/span><\/span><\/p><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">We are happy to accept returns for items that are not suitable, We will minus the postage as it cost us to send the item however we will refund delivery costs if the goods are faulty but for all other returns we cannot refund delivery costs. Please include your eBay user name and address in your returns package to speed up your refund or exchange process.<\/span><\/span><\/span><\/p><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\">It is not possible to exchange an item. We advise you to return the item for a refund and reorder.<\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:174px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_58\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:24px\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Images<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"elementkan0gl_59\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><span style=\"color:#808080\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\"><\/span><\/span><\/span><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px;\"><span style=\"font-family:open sans;\">All our product pictures are used for illustrative purpose only, Colours may vary slightly due to lighting effects in studio. We have made every effort to accurately represent the information and colours of products on this website. However, as colours vary between different monitors, we cannot guarantee that your monitors' display will accurately reflect the actual product colour. We will take every care to ensure that product information and pricing are accurate at the time they are entered.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px;\"><span style=\"font-family:open sans;\"><br><\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size:14px;\"><span style=\"font-family:open sans;\">Fitting &amp; measurements may slightly vary from Manufacture to Manufacture.<\/span><\/span><\/span><\/p><span style=\"color:#808080\"><span style=\"font-size:14px\"><span style=\"font-family:open sans\"><\/span><\/span><\/span><\/div><\/div><\/div><div style=\"width:100%;min-height:202px;position:relative;display:flex;align-items:flex-start\"><div id=\"elementkan0gl_60\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size:18px\"><span style=\"font-family:open sans\"><span style=\"color:#002060\">Thank You&nbsp;for Shopping with&nbsp;<\/span><span style=\"color:#FF8C00;\"><strong>Apparel Direct<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:23px;position:relative;display:flex;align-items:flex-start\"><\/div><\/div><\/div><\/div><div vocab=\"https:\/\/schema.org\/\" typeof=\"Product\" id=\"mobile-description\"><span property=\"description\">Description ---Top Quality 100% Cotton for a Softer Touch. ---Sizes Available from Small to 3XL. ---Plain Full Sleeve T Shirt Ideal For Casual, Family, Work Wear. ---Neck Line: Crew Neck. ---Taped Shoulder To Shoulder. ---Twin Needle Stitching On Back And Shoulder. ---All Colour 100% Cotton. ---Grey Melange : 85% Cotton &amp;amp; 15% Viscose ---Theme: EveryDay. ---Pattern: No Pattern. ---Style: Casual. ---Design: Plain Basic. ---Fit: Regular Fit. <\/span><\/div><div id=\"mobile-renderer\"><div id=\"mobile-view\"><div style=\"position:absolute;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;height:100%;width:100%;background-color:rgb(255, 255, 255);z-index:-1000\" data-element-type=\"editor.elements.PageElement\"><\/div><div style=\"width:100%;min-height:228px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_61\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 50 50\" style=\"height: 100%; width: 100%\"><path d=\"M33.732 31.562c.402.03.805.057 1.2.073a11.873 11.873 0 0 1-3.962 3.712 11.895 11.895 0 0 1-5.195 1.575c.188-.364.375-.735.556-1.112a10.71 10.71 0 0 0 2.775-.73c.01-.02.02-.035.025-.052a.714.714 0 0 1 .133-.23l-.052-.13.117-.166s.13-.213.213-.277c.082-.065.77-.658.92-.77.13-.103.7-.53.95-.735.036-.027.063-.053.086-.07.164-.147.478-.543.59-.724.056-.083.142-.294.222-.497h-.002c.48.052.956.097 1.426.132zm-11.666.808c-.045-.007.013.024.05.045-.01-.024-.027-.04-.05-.045zm8.955-.838c.12.015.277.003.394 0h.035c.114 0 .213-.05.394-.148l.014-.008c-.146-.02-.295-.037-.44-.058s-.293-.04-.44-.062c.104.08.175.146.145.158-.085.035-.232.102-.102.118zm-8.902.883l.002.004c.042.018.025.01-.002-.005zm3.71-8.85l.018.02c.01-.017-.018-.02-.018-.02zm3.963 2.613h-.024l-.023.094c-.104.383-.21.77-.32 1.158.088.002.172.01.172.01s.098-.043.127-.17c.026-.127.1-.27.1-.27l.07.016a.448.448 0 0 0 .06-.214c0-.176-.077-.215-.077-.312 0-.098.038-.332.038-.332l-.122.02zm-.522 1.772l-.053.178.08-.015s.022.056.05.135c.02-.043.032-.076.032-.076s0-.056-.027-.17c-.004-.018-.04-.036-.082-.052zm1.027-3.76l-.025-.014c-.058.236-.112.472-.172.705.04.026.012.034.178.04.236.013.072.013.248.013s.205.02.236-.053c.03-.072.04.04.04-.154a.385.385 0 0 0-.153-.33 1.55 1.55 0 0 0-.352-.207zm11.278 5.25c-.53 1.974-6.28 2.21-13.577.753-2.39 7.048-5.468 11.91-7.44 11.383-1.245-.334-1.798-2.745-1.673-6.31.043.022.086.048.127.07a11.892 11.892 0 0 1-4.36-4.362 11.897 11.897 0 0 1-1.577-5.197c.347.18.7.354 1.057.527a46 46 0 0 0 3.98 1.67h-.005l.004.072-.197.346-.18.114.048.082.034.164h-.1v.36c0 .13.264.182.264.182l-.082.05s.017.082.1.214a1.6 1.6 0 0 1 .18.36c.033.116.082.442.082.442s.215.36.313.512c.1.146.297.345.38.51.08.164.262.08.606.164.346.08.492.196.492.196s.182.147.297.214c.114.064.23.064.54.064.3 0 .105.017.47.074l.06.008c.437.064.09.033.508.224l.017.008c.102.045.156.067.186.082.032.076.018.22.03.278.016.082.13-.016.213-.016.062 0 .077.05.148.094.02.014.047.025.08.037.147.048.18-.05.18-.05l.166.196.13.18-.13.314-.115.114s.017-.147 0-.265c-.02-.115-.116.05-.116.05l-.1.313.36.347.11.098.236.215.015.042.134.386-.02.132.083.215s-.104.045-.198.066a.424.424 0 0 1-.097.016c-.05 0-.106.056-.154.114-.052.062-.093.13-.093.13s.04.074.094.15a.56.56 0 0 0 .12.13c.024.018.045.027.065.044.017.002.034.007.052.01l-.012.02h.002l-.05.083c-.142.247-.32.55-.528.872a11.98 11.98 0 0 1-3.448-1.238l.006.003c.032 2.153.435 3.55 1.224 3.76 1.494.4 3.916-3.577 5.916-9.395-.84-.188-1.695-.4-2.562-.633-9.153-2.454-16.068-6.336-15.443-8.67.334-1.244 2.742-1.797 6.307-1.672l-.12.213a11.878 11.878 0 0 1 4.415-4.446 11.872 11.872 0 0 1 6.032-1.6c-.072 0-.146-.003-.22-.002 1.674-3.148 3.36-4.96 4.602-4.627 2.334.626 2.238 8.557-.215 17.71-.23.866-.478 1.712-.73 2.534 6.038 1.177 10.692 1.07 11.097-.426.21-.788-.797-1.834-2.646-2.938v-.014a12.004 12.004 0 0 1-.65 3.61c-.383.02-.733.022-1.018.022-.23 0-.413-.004-.52-.008-.31-.012-.622-.025-.935-.05.055-.19.104-.333.113-.412.016-.1.072-.255.072-.255l-.367-.085-.043-.24-.155-.027-.142.27s-.11.17-.24.238c-.125.07-.295.084-.295.084l.04-.195c-.068-.03-.21.027-.21.027l-.016-.185s-.084-.185-.154-.196c-.07-.015-.185-.17-.185-.17s-.042-.057-.084-.17a.052.052 0 0 0-.012-.012l.02-.097s.134-.147.245-.278.148.13.262.227c.113.093.075.24.075.24s.074.038.168.038a.15.15 0 0 1 .132.074l.188.074.188-.207s.036-.132.168-.132c.13 0 .02.168.02.264 0 .094.094 0 .355-.112.26-.11.146-.094.392-.226.244-.13.113-.094.205-.168.096-.074.17-.15.17-.15l.205.135.226-.038.226-.132v.17s-.15.188-.057.316c.094.132.11.094.057.263-.057.168-.02.168 0 .263.015.07.02.078.02.12a10.85 10.85 0 0 0-.98-8.628 10.795 10.795 0 0 0-2.868-3.25c.033-.418.06-.832.076-1.244 1.48.986 2.762 2.32 3.71 3.966a11.872 11.872 0 0 1 1.6 5.978l.002-.164c3.142 1.672 4.952 3.355 4.62 4.6zM27.253 16.45s.118-.066.177-.093c.06-.025 0-.032-.06-.074s-.134.034-.134.034-.033.033-.066.108a.087.087 0 0 1-.01.017c-.03.038-.066-.064-.074-.117-.01-.06-.227-.02-.22-.02.01 0 .052.11.052.11s.018.102.018.143c0 .043 0 .117.033.168.032.05.124.127.124.127l.067-.042.025-.017.102-.167.084-.075-.117-.1zm-1.344-.744s.013-.12.078-.104c.066.012.132-.158.132-.158s-.054-.105-.118-.105c-.066 0-.21.014-.21.014l-.04-.08s-.08-.012-.186.027c-.106.04-.133-.053-.133-.053l-.013-.158-.146.04-.105-.093s-.04-.08.025-.08.157.015.157.015l.133-.093-.053-.104.09-.104s-.182-.094-.223-.025c-.04.065-.186.12-.186.12s.014-.04-.065-.147c-.08-.106.038-.158-.134-.12a.62.62 0 0 0-.232.112c-.037.026-.058.047-.058.047s-.185.04-.196.105c-.015.064.224.105.224.105s.013-.018.03-.035c.035-.038.098-.09.142-.044.065.065.118.146.118.146l-.25.13-.01-.008-.123-.098h-.25l-.117.053-.238.026s.04.118.04.185-.105.133-.105.133l-.14-.012h-.02l-.145.104s-.158.013-.224.064a.067.067 0 0 1-.033.018c-.06.016-.124-.025-.124.062 0 .105.013.158-.065.172l-.062.012-.188.04s-.08.04-.146.106c-.064.064-.21.105-.21.105l-.022-.005-.242-.048-.342.146-.01.02-.07.166-.225.025s-.185.092-.196.157c-.007.033-.042.064-.074.086-.03.02-.058.033-.058.033s-.132.054-.198.105c-.065.052-.146.157-.146.157l-.054.12.094.132-.21.025.024.104c.105.105.172.158.237.105.064-.055.025-.095.103-.12l.203-.07c.053-.02.1-.037.127-.05.065-.024.172-.117.25-.117.08 0 .158-.013.158-.013l.032-.025.18-.146.21.093.173-.026s0 .043.03.076c.013.012.028.02.05.028.078.027.197.027.197.027s.065-.093.158-.093h.236l.027-.118.15.07.02.01.12.09s-.054.015.078.067c.08.03.156.02.203.006a.29.29 0 0 0 .05-.02l.224.052s.014-.21-.053-.21c-.068 0-.197-.066-.197-.066l.145-.053.158-.026.04.172.25-.08-.04-.146.014-.225.237.038.015.158s.046.02.097.032c.056.015.114.017.114-.032 0-.093-.053-.158.013-.158s.198-.04.198-.04l.064-.093.093-.21.104.158.145-.093-.027-.133.316-.146s.186-.025.266-.025c.078 0 .104-.024.104-.024s.053-.105-.026-.105c-.075.003-.14-.06-.14-.06zm-3.153 5.105l-.132.063.304.146.148.007.112.006s.08-.133.094-.264c.006-.063.02-.09.045-.108.026-.02.067-.035.125-.078.104-.078.08-.105.054-.184-.022-.06-.126-.053-.18-.045l-.033.004-.22.108-.018.01-.106-.133-.146.04-.145.146c-.014-.013.094.015.094.015s.038-.014.145 0c.105.014-.026.105-.026.105l-.21.053.09.106zm.502-3.087l-.182.012h-.005s-.035.188.005.3l.008.02c.038.074.115.15.243.167.05.008.108.006.18-.01.116-.025.152-.033.16-.033l-.017.005s.023-.006.016-.006l.08-.032.103-.04s.17-.105.17-.198c0-.094-.146-.065-.264-.065h-.01c-.108 0-.1-.017-.15-.146-.052-.134-.052.077-.052.077s-.053-.012-.104-.13c-.054-.12-.066-.212-.066-.212l-.047.024-.148.08.04.078.037.105zm-.134 3.784s.053.065.133.173c.032.045.054.03.07 0 .02-.04.035-.106.072-.106.065 0 .014.106.093.093s.25-.014.25-.014l.005.005.114.127s.132-.065.145-.132c.013-.065.013-.065.118-.065s.066-.014.198-.12c.132-.103-.04-.195-.146-.25-.106-.052-.015-.145-.015-.145l.015-.186s0-.064-.015-.158c-.013-.093-.04-.16-.052-.25-.014-.093-.105-.066-.105-.066v-.12s.197 0 .264-.025c.065-.026 0-.16 0-.16s-.157-.063-.276-.103c-.12-.04-.04-.065.158-.08.196-.012.026-.104.026-.104l-.158-.092s-.08.106-.21.16a.174.174 0 0 0-.063.036c-.048.045-.017.1-.058.16v.105l.057.1.034.06s-.012.055-.035.112a.41.41 0 0 1-.045.086c-.053.08.026.172.026.172s0 .17-.025.265c-.026.092-.226-.08-.226-.08l-.04.225h-.182l.025.12.045.033.073.058.08.12-.152-.055-.07-.024-.132.127zm-2.07-5.948l-.224.237s.197.04.264.025c.04-.008.146-.078.256-.154.08-.055.16-.11.22-.148.146-.093.198-.065.198-.065l.053.104-.317.185.37-.053.044-.04.142-.132.146-.172.224.014.084-.03.192-.074s.158-.104.226-.225c.05-.093.086-.04.15-.025a.12.12 0 0 0 .06 0c.105-.026.054-.12.054-.212 0-.045.062-.05.138-.048.076.002.165.01.206-.02.078-.053-.066-.157-.172-.185l-.034-.008c-.083-.02-.126-.03-.138-.11-.008-.048-.057-.063-.113-.06a.32.32 0 0 0-.15.046c-.078.055-.236.066-.185-.038.008-.017.02-.022.028-.033-.41.085-.817.195-1.223.33.092-.002.13.005.19.005.08 0-.078.093-.078.093s-.237.08-.304.133l-.008.008c-.057.054-.03.14-.03.14h.03c.043-.002.12-.005.166-.015.066-.015.12-.04.29-.146.056-.033.088-.05.11-.062.05-.02.052-.01.114-.044.092-.054.025.146.025.146l.25-.093.202-.01.074-.003.08-.146-.154-.033-.084-.02.08-.078h.004c.037 0 .266 0 .338.015.08.012 0 .104 0 .104l-.025.105-.092.172s-.12.014-.21.014h-.01c-.09.007-.19.106-.19.106l-.184.13h-.266l-.04.147-.21-.025s-.026-.066-.04-.158c-.014-.094-.105 0-.105 0s-.038.156-.128.224a.128.128 0 0 1-.058.026c-.13.027-.237.16-.237.16zm2.874-1.397c-.113.01-.226.02-.338.035.014.003.025.01.062.016.078.013.013.04.013.104 0 .043.02.06.084.072.034.006.08.012.143.02.185.027.064-.053.04-.21-.003-.014-.005-.027-.003-.037zm-.71.155s.013-.027.024-.067c-.02.005-.038.007-.057.01.027.023.032.058.032.058zm1.51-.207a.195.195 0 0 0-.02.104c.013.118.04 0 .118-.026.048-.017.06-.035.068-.078h-.166zM17 17.606l.166.01.21-.13.212.063-.12.055s-.116.17-.144.25c-.027.078.316.064.316.064s.092-.25.092-.355c0-.104.277-.172.277-.172l.077-.21.133.093s.078-.146.065-.21c-.015-.067-.25-.08-.25-.08l.235-.12.238.066-.054.46h.237l.054.08s-.33.184-.396.184c-.064 0-.21.173-.21.173l-.132.146s.053.08.157.105c.104.025.104.092.104.092s.146-.053.146-.132-.053-.104-.053-.104l.197-.225c.078-.094.5-.278.58-.37.078-.093.025-.158.025-.158l.198-.12s.053-.25.08-.314c.024-.065.302-.198.5-.343.198-.146.225-.158.487-.225.265-.066.08-.094.065-.173-.013-.08-.224.106-.224.106l-.316-.094s.132 0 .264-.105c.133-.104.105-.026.197-.065.094-.04.066-.08.066-.08h.144s.12-.117.186-.224c.065-.104.21-.304.21-.304s-.328.186-.395.21c-.064.026-.17-.024-.25-.024-.08 0-.197.13-.33.184a3.275 3.275 0 0 0-.277.133l-.196-.04-.158.065-.383.158s.066-.052.227-.145l.315-.186.25-.064.022-.13c-.1.055-.2.105-.303.163a11.07 11.07 0 0 0-2.54 2.04zm9.926 10.734c.266-.846.52-1.72.762-2.62 2.136-7.965 2.383-14.82.554-15.31-.788-.212-1.833.795-2.938 2.644h-.035c1.238.03 2.465.25 3.63.653.022.38.024.733.023 1.017 0 .23-.003.414-.007.52-.036 1.002-.127 2.027-.26 3.06a.653.653 0 0 0-.153-.034c-.142-.01-.146-.002-.144 0-.003-.002-.12-.1-.163-.175-.045-.075-.13-.13-.295-.186-.163-.057-.152.064-.152.064s-.152.108-.35.088c-.188-.022-.235.19-.238.205l-.143.12s-.077.132-.165.132-.152.02-.152.02-.043.163-.043.25c0 .088-.088.1-.088.1s-.11.02-.186.055c-.076.03-.152.076-.23.12-.075.042-.043.075-.195.163-.15.086-.206.12-.206.12l-.207.042.108.11-.164.032s-.01.098.01.174c.022.076.19.088.19.088s-.11.087-.242.143c-.13.055-.13.075-.12.13.01.056.087.175.305.23.22.055.065-.01.163-.064.1-.056.207-.088.207-.088s.133.22.133.316c0 .098-.033.284-.02.35.01.066.118-.02.118-.02l-.098.107s.02.196.02.252c0 .054.195.02.195-.034 0-.053.11-.143.273-.152.163-.01.142-.032.142-.163 0-.13.033-.305.033-.305l.186-.055s.107-.08.177-.146a.35.35 0 0 0 .044-.05c.022-.035-.004-.07-.043-.104-.032-.027-.073-.056-.1-.08-.055-.055-.076-.23-.076-.34 0-.107 0-.064.013-.14.01-.07.092-.076.164-.093l.022-.006c.076-.02.174-.15.315-.218.142-.067-.076-.076-.076-.076s.023-.12.045-.22c.02-.098.305.034.305.034l.11.13-.132.1-.15.226-.218.284.175.457s.15.076.25.064a.53.53 0 0 0 .272-.118c.028-.022.167-.06.32-.094l-.052.305c-.05.02-.105-.02-.23-.02-.17 0-.215.077-.37.092-.154.017-.06.124-.06.2s.216.17.216.17l-.17.11s-.077-.17-.23-.155-.093.216-.187.293c-.092.077.062.31.062.31s-.11.014-.213.07c-.012.01-.023.015-.035.022-.107.076-.14.016-.14.016s-.06-.092-.138-.092c-.08 0-.19.123-.266.153-.078.032-.34 0-.34 0l-.17-.185-.142.14s-.123-.03-.2-.124c-.076-.092 0-.075-.017-.153-.015-.077-.046-.077-.046-.077l.076-.123.2-.124s.047-.277-.046-.4c-.094-.125-.094.123-.094.123l-.31.2.017.418-.063.185-.12-.03-.077.093s-.078-.047-.2-.093c-.125-.047-.34.154-.34.154l-.03.07-.048.114-.17-.03-.093.107h-.187c-.08 0-.03.14-.03.14s-.054.06-.114.084l-.026-.037c-.09-.012-.113 0-.168.045a.27.27 0 0 1-.1.043.786.786 0 0 1-.08.015l-.08-.202s-.056-.103-.11-.022c-.058.08-.036.136-.036.136l.023.137-.113.01-.022-.006-.056-.016-.195-.117-.03-.017s-.134-.023-.11.066c.02.09.135.202.135.26 0 .006.003.01.007.014.033.04.195.027.195.1 0 .078-.103.168-.103.168s.08.066.08.17c0 .1-.024.246-.047.312-.022.067-.078.045-.1.113-.007.017-.018.035-.028.054-.035.058-.085.113-.085.113s-.17.045-.226.022c-.058-.023-.103-.104-.203-.124a.137.137 0 0 0-.055-.004c-.04.005-.046.026-.146-.042-.137-.09-.18-.124-.27-.157-.09-.032-.136-.112-.136-.112l-.04-.022a.39.39 0 0 0-.14-.055c-.057 0-.146.102-.146.102s.02.09 0 .202c-.02.112.02.17-.045.214s-.08.012-.09.103c-.012.09.045.045-.045.135-.08.082-.044.08-.102.12l-.022.016c-.09.057-.124.045-.18.136a.51.51 0 0 0-.08.27c0 .078.247.36.247.36l.035.01c.04.01.102.038.102.09 0 .08-.092.114 0 .17.09.058.045.067.1.103.028.016.197.053.365.088.184.037.367.07.367.07l.124-.09h.213l.056-.19.17-.012.01-.182s-.02-.18.034-.18c.027 0 .11-.047.188-.094.078-.048.15-.098.15-.098s.043.01.1.017c.087.014.203.023.238-.005.057-.045.18-.226.18-.226s-.025-.145.004-.206c.01-.02.02-.03.04-.03.09 0 .306.012.373.08.067.065.235.155.304.145.06-.012.15-.07.22-.118l.027-.02c.024-.018.09-.064.164-.12l.005.01s.157.02.202.1c.045.08.067.226.045.315-.022.088.146.168.202.235s.328.428.417.54c.09.11.27.314.27.314l.09.215-.19.136s-.203-.012-.27-.034c-.07-.022-.124.045-.124.045s-.047-.022-.147-.112c-.103-.09-.034.012-.16.08-.122.066.16.168.228.225.066.058.156.156.2.215.046.056.16-.02.16-.112s.01-.17.01-.17h.202l.125-.145.103-.09.045-.124-.08-.225s.138-.046.19-.046c.058 0 .113.17.113.17l.058.02s0-.134-.034-.19c-.033-.057-.214-.19-.214-.19s-.202-.08-.26-.124c-.057-.045-.19-.28-.26-.404-.066-.124-.02-.137-.032-.19-.012-.058-.125-.125-.17-.202-.045-.08-.032-.19-.032-.19s.102-.068.214-.136c.04-.024.06-.04.062-.05.045.046.162.18.162.263 0 .103.045.215.067.282.022.066.157.123.338.157.18.032.123.156.123.156s.17.202.19.338c.02.135.02.202.033.37.013.17.093.19.147.352.057.155.077.155.112.278.015.058.026.114.046.17-.11.413-.23.83-.354 1.247-.105.1-.18.455-.18.455s-.035.02-.084.032l-.233-.057c-.118-.127-.392-.177-.536-.27-.148-.1-.148-.313-.264-.412-.115-.1-.197-.05-.197-.05s-.33-.065-.396-.147c-.035-.043-.094-.11-.14-.162-.042-.048-.075-.082-.075-.082s.03-.03.073-.065a.46.46 0 0 1 .156-.098c.08-.018-.034-.183-.133-.347s.263-.214.246-.296c-.017-.08-.173-.083-.27-.13l-.01-.002c-.1-.05-.327 0-.327 0l-.313-.065s-.1.032-.18.065c-.03.012-.068.006-.107-.014a.396.396 0 0 1-.188-.187c-.045-.09-.138-.07-.23-.077a.294.294 0 0 1-.13-.037.21.21 0 0 0-.122-.035c-.072.002-.14.04-.225.053-.106.015-.25.05-.343.062a.267.267 0 0 1-.05.006c-.083 0-.183.064-.297.13-.115.066-.147-.18-.147-.18s-.035 0-.1-.012a1.605 1.605 0 0 1-.296-.087c-.246-.1-.132-.248-.132-.248s-.045.037-.14.12c-.03.025-.064.058-.105.094-.165.146-.214.213-.362.197-.146-.018-.23.05-.328.1-.09.045-.292.395-.322.45-1.96-.672-3.896-1.462-5.646-2.39a20.185 20.185 0 0 1-1.324-.78c.235-1.22.66-2.395 1.258-3.486-.01.014-.018.027-.023.043-2.153.032-3.55.436-3.76 1.222-.49 1.83 5.572 5.043 13.537 7.18.905.23 1.79.444 2.656.637zm-2.42-3.367c-.056.02-.056.144-.056.144s.044.055.1.065a.32.32 0 0 0 .137-.01c.026-.005.06-.013.095-.023.108-.033.043-.09.065-.165.02-.077.02-.178.065-.254s-.09-.132-.09-.132-.1.144-.138.202l-.004.007a.504.504 0 0 1-.175.166zm.18-.59c.06-.01.19-.046.217-.115.03-.088.02-.043.055-.143s-.09.033-.09.033l-.143.088-.04.085-.025.06s.01 0 .026-.006z\" fill=\"rgba(77, 182, 172, 1)\"><\/path><\/svg><\/div><\/div><div id=\"mobile_elm_4\" data-element-type=\"editor.elements.ShapeElement\"><\/div><div id=\"mobile_elm_2\" data-element-type=\"editor.elements.TitleElement\"><div style=\"font-family:Anton;color:rgba(255, 193, 7, 1);font-size:35.75px;text-decoration:none;text-align:center;direction:ltr;padding:0px;letter-spacing:0px\">APPAREL DIRECT ONLINE<\/div><\/div><\/div><div style=\"width:100%;min-height:44px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_element1qq1a_49\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 491.7 491.7\" id=\"elm_532_icon\" src=\"https:\/\/img.crazylister.com\/public\/icons\/Electronic%20Commerce\/delivery52.svg\"><path d=\"M152.49 261.67H16.6c-9.176 0-16.6 7.43-16.6 16.597 0 9.165 7.423 16.597 16.6 16.597h135.89c9.174 0 16.598-7.432 16.598-16.597 0-9.167-7.424-16.596-16.597-16.596zM169.087 195.28H66.392c-9.176 0-16.6 7.432-16.6 16.6 0 9.164 7.424 16.596 16.6 16.596h102.696c9.173 0 16.597-7.432 16.597-16.596 0-9.17-7.424-16.6-16.598-16.6zM185.684 128.89h-69.5c-9.176 0-16.6 7.432-16.6 16.597 0 9.167 7.424 16.6 16.6 16.6h69.5c9.176 0 16.6-7.433 16.6-16.6 0-9.165-7.424-16.596-16.6-16.596zM380.136 278.445c-35.658 0-64.654 29.005-64.654 64.663 0 35.65 28.996 64.656 64.654 64.656 35.643 0 64.656-29.005 64.656-64.656 0-35.658-29.013-64.663-64.656-64.663zm0 96.123c-17.358 0-31.46-14.108-31.46-31.46 0-17.35 14.102-31.467 31.46-31.467 17.36 0 31.46 14.118 31.46 31.468s-14.1 31.46-31.46 31.46z\" fill=\"#ffffff\"><\/path><path d=\"M448.294 212.03l-10.405-.088a11.13 11.13 0 0 1-10.376-7.326l-41.04-113.354a11.108 11.108 0 0 0-10.456-7.326H261.573c-5.317 0-9.888 3.77-10.894 8.99L205.2 326.58c-.616 3.26.226 6.63 2.334 9.19a11.092 11.092 0 0 0 8.573 4.045h74.804c1.782-47.83 40.974-86.27 89.226-86.27s87.446 38.44 89.228 86.27h11.215c6.145 0 11.12-4.976 11.12-11.108v-72.923c0-24.03-19.37-43.56-43.406-43.756zM387.3 177.5a6.434 6.434 0 0 1-5.136 2.567h-115.26a6.372 6.372 0 0 1-4.894-2.27 6.406 6.406 0 0 1-1.425-5.194l9.61-57.72a6.422 6.422 0 0 1 6.323-5.353h88.676a6.397 6.397 0 0 1 6.142 4.603l16.988 57.718a6.41 6.41 0 0 1-1.023 5.65z\" fill=\"#ffffff\"><\/path><\/svg><\/div><\/div><div id=\"mobile_element1qq1a_48\" data-element-type=\"editor.elements.TitleElement\"><div style=\"color:rgb(255, 255, 255);font-size:20px;font-weight:400;text-decoration:none;font-style:normal;text-align:center;direction:ltr;font-family:Oswald;letter-spacing:-0.3px\">Fast Shipping<\/div><\/div><\/div><div style=\"width:100%;min-height:159px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_element_45\" data-element-type=\"editor.elements.MobileGalleryElement\" data-cl-template-tag=\"editor.elements.GalleryElement\"><div class=\"cl-gallery-el-wrapper cl-gallery-el-wrapper-show-dots\"><input type=\"radio\" id=\"cl-gallery-el-slide1-mobile_element_45\" name=\"cl-gallery-el-slides-mobile_element_45\" data-interactive=\"true\" checked=\"\"><input type=\"radio\" id=\"cl-gallery-el-slide2-mobile_element_45\" name=\"cl-gallery-el-slides-mobile_element_45\" data-interactive=\"true\"><div class=\"cl-gallery-el-slider-content\"><div class=\"cl-gallery-el-slide cl-gallery-el-slide1-mobile_element_45\" style=\"height:calc(100% - 66px);padding-top:0;padding-left:0;padding-right:0;padding-bottom:0\"><span style=\"background-image: url('https:\/\/i.ebayimg.com\/images\/g\/5NEAAOSwDDNhTMyZ\/s-l1600.jpg')\"><\/span><\/div><div class=\"cl-gallery-el-slide cl-gallery-el-slide2-mobile_element_45\" style=\"height:calc(100% - 66px);padding-top:0;padding-left:0;padding-right:0;padding-bottom:0\"><span style=\"background-image: url('https:\/\/i.ebayimg.com\/images\/g\/h-UAAOSwU-hhTMyh\/s-l1600.jpg')\"><\/span><\/div><\/div><div class=\"cl-gallery-el-slider-arrow-nav\"><label for=\"cl-gallery-el-slide1-mobile_element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-prev\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-prev\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><label for=\"cl-gallery-el-slide2-mobile_element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-prev\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-prev\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><\/div><div class=\"cl-gallery-el-slider-arrow-nav\"><label for=\"cl-gallery-el-slide1-mobile_element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-next\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-next\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><label for=\"cl-gallery-el-slide2-mobile_element_45\" data-interactive=\"true\" class=\"cl-gallery-el-nav-arrow-wrapper cl-gallery-el-nav-arrow-wrapper-next\"><span class=\"cl-gallery-el-nav-arrow cl-gallery-el-nav-arrow-next\" data-interactive=\"true\" style=\"opacity:0.5\"><\/span><\/label><\/div><div class=\"cl-gallery-el-slider-nav\" data-interactive=\"true\"><label class=\"cl-gallery-el-nav-button\" for=\"cl-gallery-el-slide1-mobile_element_45\" data-interactive=\"true\"><\/label><label class=\"cl-gallery-el-nav-button\" for=\"cl-gallery-el-slide2-mobile_element_45\" data-interactive=\"true\"><\/label><\/div><\/div><\/div><div id=\"mobile_element_47\" data-element-type=\"editor.elements.TitleElement\" data-cl-template-tag=\"title\"><div style=\"color:rgba(1, 110, 104, 1);font-size:22.400000000000002px;font-style:normal;text-align:center;text-decoration:none;font-family:Anton\">Mens Long Sleeve T-Shirt 100% Cotton Plain Crew Round Neck Casual\nTee Tops S-3XL<\/div><\/div><\/div><div style=\"width:100%;min-height:722px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_element_46\" style=\"transition-property:border-radius, padding;transition-duration:50ms;transition-timing-function:ease-in-out;position:relative;top:0;left:0;box-sizing:border-box;-webkit-box-sizing:border-box;min-height:416px;width:312px;z-index:36;margin-left:7px;margin-top:312px;margin-bottom:-6px;flex-grow:0;flex-shrink:0;display:inline-block;vertical-align:top;word-wrap:break-word;overflow-y:auto;padding-bottom:0\" data-element-type=\"editor.elements.TitleElement\" data-exclude-css-removal=\"true\" data-cl-template-tag=\"description\"><div style=\"color:rgb(83, 83, 83);font-size:16px;font-style:normal;text-align:left;text-decoration:none;font-family:Ubuntu\"><div><div data-exclude-css-removal=\"true\" data-cl-template-tag=\"description\"><div>\n<div><b>Description<\/b><\/div><div><ul><li>Top Quality 100%&nbsp; Cotton for a Softer Touch.<\/li><li>Sizes Available from Small to 3XL.<\/li><li>Plain Full Sleeve T Shirt Ideal For Casual, Family, Work Wear.<\/li><li>Neck Line: Crew Neck.<\/li><li>Taped Shoulder To Shoulder.<\/li><li>Twin Needle Stitching On Back And Shoulder.<\/li><li>All Colour 100% Cotton.<\/li><li>Grey Melange : 85% Cotton &amp; 15% Viscose<\/li><li>Theme: EveryDay.<\/li><li>Pattern: No Pattern.<\/li><li>Style: Casual.<\/li><li>Design: Plain Basic.<\/li><li>Fit: Regular Fit.<\/li><\/ul><\/div>\n<\/div><\/div>\n<\/div><\/div><\/div><div id=\"mobile_elementwl6l0n_53\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align: center;\"><strong>Measurement (Approximate)<\/strong><\/p><p><br><\/p><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:464px\" class=\" cke_show_border\"><tbody><tr><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>SIZE<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>&nbsp;&nbsp; CHEST<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>&nbsp; PIT TO PIT<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>&nbsp; PIT TO PIT<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>SLEEVE<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>LENGTH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>LENGTH<\/strong><\/span><\/td><\/tr><tr><td style=\"text-align:center\"><br><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>CM<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>INCH<\/strong><\/span><\/td><td style=\"text-align:center\"><span style=\"font-size: 11px;\"><strong>CM<\/strong><\/span><\/td><\/tr><tr><td style=\"text-align:center\">SMALL<\/td><td style=\"text-align:center\">37-39<\/td><td style=\"text-align:center\">19.25<\/td><td style=\"text-align:center\">49<\/td><td style=\"text-align:center\">9<\/td><td style=\"text-align:center\">27.8<\/td><td style=\"text-align:center\">70.5<\/td><\/tr><tr><td style=\"text-align:center\">MEDIUM<\/td><td style=\"text-align:center\">39-41<\/td><td style=\"text-align:center\">20.5<\/td><td style=\"text-align:center\">52.5<\/td><td style=\"text-align:center\">9<\/td><td style=\"text-align:center\">29<\/td><td style=\"text-align:center\">74<\/td><\/tr><tr><td style=\"text-align:center\">LARGE<\/td><td style=\"text-align:center\">42-44<\/td><td style=\"text-align:center\">22<\/td><td style=\"text-align:center\">56<\/td><td style=\"text-align:center\">9<\/td><td style=\"text-align:center\">30.5<\/td><td style=\"text-align:center\">77.5<\/td><\/tr><tr><td style=\"text-align:center\">X-LARGE<\/td><td style=\"text-align:center\">44-46<\/td><td style=\"text-align:center\">23<\/td><td style=\"text-align:center\">58.5<\/td><td style=\"text-align:center\">9<\/td><td style=\"text-align:center\">31<\/td><td style=\"text-align:center\">79<\/td><\/tr><tr><td style=\"text-align:center\">XX-LARGE<\/td><td style=\"text-align:center\">46-48<\/td><td style=\"text-align:center\">24.25<\/td><td style=\"text-align:center\">61.5<\/td><td style=\"text-align:center\">9.7<\/td><td style=\"text-align:center\">32.5<\/td><td style=\"text-align:center\">82.7<\/td><\/tr><\/tbody><\/table><\/div><\/div><div id=\"mobile_elementkan0gl_51\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 24px;\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Shipping<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:361px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_55\" data-element-type=\"editor.elements.IconElement\"><div style=\"height:100%;width:100%;display:flex\"><svg viewBox=\"0 0 50 50\" style=\"height: 100%; width: 100%\"><path d=\"M16.316 20.448c.104.115.154.293.154.53s-.056.415-.166.53c-.113.114-.285.17-.517.17h-1.022v-1.404h1.072c.216 0 .375.058.48.174zm27.786 5.35l-.185 2.887-.798.554v1.78h-1.425c.086.292.134.602.134.92a3.32 3.32 0 0 1-3.318 3.316 3.32 3.32 0 0 1-3.316-3.316c0-.21.02-.413.06-.61-.23.067-.427.06-.427.06h-6.082c-.185-.37.246-.738.246-.738H34.4c.612-.43-.063-.736-.063-.736H28.81c-.615.185-.738 1.166-.738 1.166H15.727v-1.104h-.836c.407.55.65 1.23.65 1.966 0 1.83-1.487 3.316-3.315 3.316S8.91 33.773 8.91 31.944c0-.736.243-1.414.65-1.966H9.09c-1.72 0-3.193-.554-3.193-.554V27.46h2.38a1.335 1.335 0 0 1-.16-.64V16.093c0-.746.604-1.35 1.35-1.35h17.124a1.35 1.35 0 0 1 1.352 1.35v10.724c0 .23-.06.45-.16.64h1.27V16.156h7.187l3.624 5.098c3.07.492 2.58 1.66 2.58 1.66h-.8v1.534h1.536v.982l.92.367zm-33.866-1.222h.895v-2.188h1.898v-.924H11.13v-1.17h2.145v-.923h-3.04v5.206zm3.83 7.362a1.844 1.844 0 0 0-3.686 0 1.844 1.844 0 0 0 3.686 0zm3.375-7.497a.28.28 0 0 1-.14-.18 1.97 1.97 0 0 1-.035-.457v-.583c0-.496-.14-.85-.418-1.06a.774.774 0 0 0-.113-.07c.095-.052.18-.117.255-.195.252-.257.377-.613.377-1.07 0-.473-.125-.834-.376-1.082-.252-.248-.617-.372-1.1-.372H13.87v5.206h.895V22.55h.986c.228 0 .39.063.483.188.094.124.14.33.134.62l-.005.3c-.002.16.008.328.027.505.02.177.044.314.075.41h.975v-.132zm3.96-.79h-2.344v-1.34h2.067v-.924h-2.067v-1.09h2.262v-.925H18.16v5.205h3.24v-.925zm3.966 0H23.02v-1.34h2.068v-.924H23.02v-1.09h2.265v-.925h-3.16v5.205h3.24v-.925zm7.31-1.6H30.53v.86c2.826 0 2.15-.86 2.15-.86zm5.53-.06L35.5 17.32h-4.73l-.06 3.87 4.358-.06.492.858h2.643zm2.148 9.948a1.844 1.844 0 0 0-3.686 0c0 1.017.827 1.843 1.843 1.843a1.845 1.845 0 0 0 1.844-1.842z\" fill=\"rgba(56, 142, 60, 1)\"><\/path><\/svg><\/div><\/div><div id=\"mobile_elementkan0gl_52\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align:justify\"><span style=\"color:#808080;\">We offer&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;shipping on all orders!<\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">We dispatch any order made before 12:00 pm on the same working day (weekends, public holidays and bank holidays are not considered as a working day). Orders placed after 1:00 pm will normally be posted on the next working day.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">Any order made on weekends, public holidays or bank holidays will be dispatched on the next working day.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><br><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">If you have not received your item within the specified time frame please contact us as soon as possible.<\/span><\/span><\/span><\/p><\/div><\/div><div id=\"mobile_elementkan0gl_49\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 24px;\"><span style=\"font-family:coda;\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Payment<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:81px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_48\" data-element-type=\"editor.elements.ImageElement\"><img src=\"https:\/\/resized-images.crazylister.com\/68747470733a2f2f696d672e6372617a796c69737465722e636f6d2f3139303537352f696d616765732f50617970616c2e6a70673f76657273696f6e49643d474d3757615a554671557974465536636c486f545752376a41416737595f5954\/auto\/195.jpg\" width=\"100%\" height=\"100%\" title=\"\" style=\"border:0\"><\/div><div id=\"mobile_elementkan0gl_56\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 24px;\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Returns<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"mobile_elementkan0gl_50\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 14px;\"><span style=\"color:#696969\"><span style=\"font-family:open sans\">We accept payment by&nbsp;<\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:367px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_58\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 24px;\"><span style=\"font-family:coda\"><span style=\"color:#FF8C00\">\u200b\u200b\u200b\u200b\u200b\u200b\u200b<strong>Images<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><div id=\"mobile_elementkan0gl_57\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">If you are not completely satisfied with your purchase, simply return the item(s) to us in their original condition within 30 days of receipt.<\/span><\/span><\/span><\/p><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">We are happy to accept returns for items that are not suitable, We will minus the postage as it cost us to send the item however we will refund delivery costs if the goods are faulty but for all other returns we cannot refund delivery costs. Please include your eBay user name and address in your returns package to speed up your refund or exchange process.<\/span><\/span><\/span><\/p><p style=\"text-align: justify;\"><span style=\"color:#808080\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\">It is not possible to exchange an item. We advise you to return the item for a refund and reorder.<\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:355px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_59\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><span style=\"color:#808080\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\"><\/span><\/span><\/span><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans;\">All our product pictures are used for illustrative purpose only, Colours may vary slightly due to lighting effects in studio. We have made every effort to accurately represent the information and colours of products on this website. However, as colours vary between different monitors, we cannot guarantee that your monitors' display will accurately reflect the actual product colour. We will take every care to ensure that product information and pricing are accurate at the time they are entered.<\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans;\"><br><\/span><\/span><\/span><\/p><p style=\"text-align:justify\"><span style=\"color:#808080;\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans;\">Fitting &amp; measurements may slightly vary from Manufacture to Manufacture.<\/span><\/span><\/span><\/p><span style=\"color:#808080\"><span style=\"font-size: 14px;\"><span style=\"font-family:open sans\"><\/span><\/span><\/span><\/div><\/div><\/div><div style=\"width:100%;min-height:72px;position:relative;display:flex;align-items:flex-start\"><div id=\"mobile_elementkan0gl_60\" data-element-type=\"editor.elements.RichTextElement\"><div class=\"cl-rich-text-el\"><p><span style=\"font-size: 18px;\"><span style=\"font-family:open sans\"><span style=\"color:#002060\">Thank You&nbsp;for Shopping with&nbsp;<\/span><span style=\"color:#FF8C00;\"><strong>Apparel Direct<\/strong><\/span><\/span><\/span><\/p><\/div><\/div><\/div><div style=\"width:100%;min-height:54px;position:relative;display:flex;align-items:flex-start\"><\/div><\/div><\/div><a id=\"footer-link\" href=\"https:\/\/cgi6.ebay.com\/ws\/eBayISAPI.dll?SolutionsDirectory&amp;page=details&amp;solutionId=24825\" style=\"display:none\" data-exclude-css-removal=\"true\" target=\"_blank\"><\/a><\/div><div id=\"cl-raw-description\" data-exclude-css-removal=\"true\" style=\"display: none;\"><div><div data-exclude-css-removal=\"true\" data-cl-template-tag=\"description\"><div>\n<div><b>Description<\/b><\/div><div><ul><li>Top Quality 100%&nbsp; Cotton for a Softer Touch.<\/li><li>Sizes Available from Small to 3XL.<\/li><li>Plain Full Sleeve T Shirt Ideal For Casual, Family, Work Wear.<\/li><li>Neck Line: Crew Neck.<\/li><li>Taped Shoulder To Shoulder.<\/li><li>Twin Needle Stitching On Back And Shoulder.<\/li><li>All Colour 100% Cotton.<\/li><li>Grey Melange : 85% Cotton &amp; 15% Viscose<\/li><li>Theme: EveryDay.<\/li><li>Pattern: No Pattern.<\/li><li>Style: Casual.<\/li><li>Design: Plain Basic.<\/li><li>Fit: Regular Fit.<\/li><\/ul><\/div>\n<\/div><\/div>\n<\/div><\/div><\/font>",
+        "HitCounter": "NoHitCounter",
+        "ItemID": "174951959939",
+        "ListingDetails": {
+            "Adult": "false",
+            "BindingAuction": "false",
+            "CheckoutEnabled": "true",
+            "ConvertedBuyItNowPrice": "0.0",
+            "ConvertedStartPrice": "6.99",
+            "HasReservePrice": "false",
+            "StartTime": "2021-09-24T16:48:49.000Z",
+            "EndTime": "2022-12-24T16:48:49.000Z",
+            "ViewItemURL": "https:\/\/www.ebay.co.uk\/itm\/Mens-Long-Sleeve-T-Shirt-100-Cotton-Plain-Crew-Round-Neck-Casual-Tee-Tops-S-3XL-\/174951959939",
+            "HasUnansweredQuestions": "true",
+            "HasPublicMessages": "false",
+            "ViewItemURLForNaturalSearch": "https:\/\/www.ebay.co.uk\/itm\/Mens-Long-Sleeve-T-Shirt-100-Cotton-Plain-Crew-Round-Neck-Casual-Tee-Tops-S-3XL-\/174951959939"
+        },
+        "ListingDesigner": {
+            "LayoutID": "310000",
+            "ThemeID": "310"
+        },
+        "ListingDuration": "GTC",
+        "ListingType": "FixedPriceItem",
+        "Location": "Ilford",
+        "PrimaryCategory": {
+            "CategoryID": "15687",
+            "CategoryName": "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:T-Shirts"
+        },
+        "PrivateListing": "false",
+        "ProductListingDetails": {
+            "BrandMPN": {
+                "Brand": "River Road"
+            },
+            "IncludeeBayProductDetails": "true"
+        },
+        "Quantity": "4135",
+        "IsItemEMSEligible": "false",
+        "ReviseStatus": {
+            "ItemRevised": "true"
+        },
+        "SecondaryCategory": {
+            "CategoryID": "57990",
+            "CategoryName": "Clothes, Shoes & Accessories:Men:Men's Clothing:Shirts & Tops:Casual Shirts & Tops"
+        },
+        "Seller": {
+            "AboutMePage": "false",
+            "Email": "Invalid Request",
+            "FeedbackScore": "18031",
+            "PositiveFeedbackPercent": "99.5",
+            "eBayGoodStanding": "true",
+            "NewUser": "false",
+            "RegistrationDate": "2019-03-15T17:26:48.000Z",
+            "Site": "UK",
+            "UserID": "apparel.direct",
+            "VATStatus": "VATTax",
+            "SellerInfo": {
+                "AllowPaymentEdit": "false",
+                "CheckoutEnabled": "true",
+                "CIPBankAccountStored": "false",
+                "GoodStanding": "true",
+                "LiveAuctionAuthorized": "false",
+                "QualifiesForB2BVAT": "false",
+                "StoreOwner": "true",
+                "StoreURL": "https:\/\/stores.ebay.co.uk\/appareldirectonline",
+                "SellerBusinessType": "Commercial",
+                "TopRatedSeller": "true"
+            },
+            "MotorsDealer": "false"
+        },
+        "SellingStatus": {
+            "BidCount": "0",
+            "BidIncrement": "0.0",
+            "ConvertedCurrentPrice": "6.99",
+            "CurrentPrice": "6.99",
+            "MinimumToBid": "6.99",
+            "QuantitySold": "3991",
+            "ReserveMet": "true",
+            "SecondChanceEligible": "false",
+            "ListingStatus": "Active",
+            "QuantitySoldByPickupInStore": "0"
+        },
+        "ShippingDetails": {
+            "ApplyShippingDiscount": "false",
+            "GlobalShipping": "true",
+            "CalculatedShippingRate": {
+                "WeightMajor": "0",
+                "WeightMinor": "0"
+            },
+            "SalesTax": {
+                "SalesTaxPercent": "0.0",
+                "ShippingIncludedInTax": "false"
+            },
+            "ShippingServiceOptions": [
+                {
+                    "ShippingService": "UK_RoyalMail48",
+                    "ShippingServiceCost": "0.0",
+                    "ShippingServiceAdditionalCost": "0.0",
+                    "ShippingServicePriority": "1",
+                    "ExpeditedService": "false",
+                    "ShippingTimeMin": "2",
+                    "ShippingTimeMax": "3",
+                    "FreeShipping": "true"
+                },
+                {
+                    "ShippingService": "UK_RoyalMail24",
+                    "ShippingServiceCost": "4.99",
+                    "ShippingServiceAdditionalCost": "4.99",
+                    "ShippingServicePriority": "2",
+                    "ExpeditedService": "true",
+                    "ShippingTimeMin": "1",
+                    "ShippingTimeMax": "2"
+                },
+                {
+                    "ShippingService": "UK_RoyalMailSpecialDeliveryNextDay",
+                    "ShippingServiceCost": "9.99",
+                    "ShippingServiceAdditionalCost": "9.99",
+                    "ShippingServicePriority": "3",
+                    "ExpeditedService": "true",
+                    "ShippingTimeMin": "1",
+                    "ShippingTimeMax": "1"
+                }
+            ],
+            "InternationalShippingServiceOption": [
+                {
+                    "ShippingService": "UK_RoyalMailAirmailInternational",
+                    "ShippingServiceCost": "10.0",
+                    "ShippingServiceAdditionalCost": "10.0",
+                    "ShippingServicePriority": "2",
+                    "ShipToLocation": [
+                        "EuropeanUnion",
+                        "IE",
+                        "DE",
+                        "FR",
+                        "GR",
+                        "IT",
+                        "ES"
+                    ]
+                },
+                {
+                    "ShippingService": "UK_RoyalMailAirsureInternational",
+                    "ShippingServiceCost": "15.0",
+                    "ShippingServiceAdditionalCost": "12.0",
+                    "ShippingServicePriority": "3",
+                    "ShipToLocation": [
+                        "EuropeanUnion",
+                        "IE",
+                        "DE",
+                        "FR",
+                        "GR",
+                        "IT",
+                        "ES"
+                    ]
+                }
+            ],
+            "ShippingType": "Flat",
+            "ThirdPartyCheckout": "false",
+            "ShippingDiscountProfileID": "0",
+            "InternationalShippingDiscountProfileID": "0",
+            "SellerExcludeShipToLocationsPreference": "true"
+        },
+        "ShipToLocations": "Worldwide",
+        "Site": "UK",
+        "StartPrice": "6.99",
+        "Storefront": {
+            "StoreCategoryID": "77671930013",
+            "StoreCategory2ID": "0",
+            "StoreURL": "https:\/\/stores.ebay.co.uk\/appareldirectonline"
+        },
+        "TimeLeft": "P9DT7H4M39S",
+        "Title": "Mens Long Sleeve T-Shirt 100% Cotton Plain Crew Round Neck Casual Tee Tops S-3XL",
+        "HitCount": "0",
+        "LocationDefaulted": "true",
+        "GetItFast": "false",
+        "PostalCode": "IG4 ***",
+        "PictureDetails": {
+            "GalleryType": "Plus",
+            "PhotoDisplay": "PicturePack",
+            "PictureURL": [
+                "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/5NEAAOSwDDNhTMyZ\/$_57.JPG?set_id=8800005007",
+                "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/h-UAAOSwU-hhTMyh\/$_57.JPG?set_id=8800005007"
+            ],
+            "PictureSource": "EPS"
+        },
+        "DispatchTimeMax": "0",
+        "ProxyItem": "false",
+        "ItemSpecifics": {
+            "NameValueList": [
+                {
+                    "Name": "Pattern",
+                    "Value": "No Pattern",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Sleeve Length",
+                    "Value": "Long Sleeve",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Character",
+                    "Value": "MAN",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Neckline",
+                    "Value": "Round Neck",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Occasion",
+                    "Value": "Formal, Casual",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Size",
+                    "Value": "S M L XL XXL 3XL",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Garment Care",
+                    "Value": "Machine Washable",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Material",
+                    "Value": "Cotton",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Fabric Type",
+                    "Value": "Jersey",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Accents",
+                    "Value": "Logo",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Colour",
+                    "Value": "White, Black, Grey Marl, Dark Grey, Navy, ERed",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Vintage",
+                    "Value": "Yes",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Fit",
+                    "Value": "Regular",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Brand",
+                    "Value": "River Road",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Size Type",
+                    "Value": "Regular",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Department",
+                    "Value": "Men",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Type",
+                    "Value": "T-Shirt",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Theme",
+                    "Value": "Everyday",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Style",
+                    "Value": "Basic Tee",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Features",
+                    "Value": [
+                        "Ribbed Neck",
+                        "Ring Spun"
+                    ],
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Country\/Region of Manufacture",
+                    "Value": "Bangladesh",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Season",
+                    "Value": [
+                        "Autumn",
+                        "Spring",
+                        "Winter"
+                    ],
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Character Family",
+                    "Value": "MAN",
+                    "Source": "ItemSpecific"
+                },
+                {
+                    "Name": "Product Line",
+                    "Value": "Basic",
+                    "Source": "ItemSpecific"
+                }
+            ]
+        },
+        "BusinessSellerDetails": {
+            "Address": {
+                "Street1": "## This is not Return Address ##",
+                "Street2": "162 Redbridge Lane East",
+                "CityName": "Ilford",
+                "StateOrProvince": "Essex",
+                "CountryName": "United Kingdom",
+                "Phone": "7908197360",
+                "PostalCode": "IG4 5BT",
+                "CompanyName": "Apparel Direct Online Limited",
+                "FirstName": "Shakil",
+                "LastName": "Samad"
+            },
+            "Email": "info@appareldirectonline.co.uk",
+            "LegalInvoice": "false"
+        },
+        "BuyerGuaranteePrice": "20000.0",
+        "ReturnPolicy": {
+            "ReturnsWithinOption": "Days_30",
+            "ReturnsWithin": "30 days",
+            "ReturnsAcceptedOption": "ReturnsAccepted",
+            "ReturnsAccepted": "Returns Accepted",
+            "ShippingCostPaidByOption": "Buyer",
+            "ShippingCostPaidBy": "Buyer"
+        },
+        "Variations": {
+            "Variation": [
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WHT-S",
+                    "StartPrice": "6.99",
+                    "Quantity": "39",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "36",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BLK-S",
+                    "StartPrice": "6.99",
+                    "Quantity": "65",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Black"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "62",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-NAVY-S",
+                    "StartPrice": "6.99",
+                    "Quantity": "47",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Navy"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "45",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-S",
+                    "StartPrice": "5.99",
+                    "Quantity": "21",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "21",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-GRYMARL-S",
+                    "StartPrice": "5.99",
+                    "Quantity": "17",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Grey Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "17",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WHT-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "148",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "142",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BLK-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "210",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Black"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "205",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-NAVY-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "81",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Navy"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "81",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "55",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "55",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-GRYMARL-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "113",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Grey Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "108",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WHT-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "203",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "197",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BLK-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "258",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Black"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "255",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-NAVY-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "156",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Navy"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "153",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "73",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "73",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-GRYMARL-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "104",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Grey Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "97",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WHT-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "146",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "145",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BLK-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "257",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Black"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "252",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-NAVY-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "113",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Navy"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "109",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "86",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "86",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-GRYMARL-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "133",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Grey Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "133",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WHT-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "105",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "105",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BLK-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "205",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Black"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "202",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-NAVY-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "106",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Navy"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "106",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "49",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "49",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-GRYMARL-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "95",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Grey Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "93",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-ORG-S",
+                    "StartPrice": "5.99",
+                    "Quantity": "23",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Orange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "23",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-ORG-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "32",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Orange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "32",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-ORG-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "45",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Orange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "45",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-ORG-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "11",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Orange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "11",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-ORG-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "35",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Orange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "35",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-S",
+                    "StartPrice": "5.99",
+                    "Quantity": "14",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "14",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "43",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "43",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "53",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "53",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "47",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "47",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "42",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "42",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-S",
+                    "StartPrice": "6.99",
+                    "Quantity": "34",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "31",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "84",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "84",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "61",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "61",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "92",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "92",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "57",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "57",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-RED-3XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "51",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Engine Red"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "3XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "51",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-GRN-3XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "59",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Green"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "3XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "59",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "FB21-MENS-SOLS-TSHIRT-L\/S-PLAIN-DKGRY-3XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "11",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Dark Grey"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "3XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "11",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-ECRU-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "11",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Ecru\/Off White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "5",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-ECRU-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "14",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Ecru\/Off White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "7",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-ECRU-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "7",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Ecru\/Off White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "3",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-ECRU-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Ecru\/Off White"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "3",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-DNM-S",
+                    "StartPrice": "6.99",
+                    "Quantity": "8",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Denim Blue"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "S"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "6",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-DNM-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "20",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Denim Blue"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "15",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-DNM-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "36",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Denim Blue"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "31",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-DNM-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "38",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Denim Blue"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "32",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-DNM-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "22",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Denim Blue"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "19",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WINE-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "16",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Wine"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "11",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WINE-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "34",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Wine"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "31",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WINE-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "30",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Wine"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "28",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-WINE-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "18",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Wine"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "18",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BWN-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "11",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Brown"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "6",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BWN-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "16",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Brown"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "12",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BWN-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "14",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Brown"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "9",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-BWN-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "16",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Brown"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "13",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-CRLMARL-M",
+                    "StartPrice": "6.99",
+                    "Quantity": "16",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Charcoal Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "M"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "11",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-CRLMARL-L",
+                    "StartPrice": "6.99",
+                    "Quantity": "15",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Charcoal Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "L"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "12",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-CRLMARL-XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "19",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Charcoal Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "12",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                },
+                {
+                    "SKU": "SF21-MENS-RIVERROAD-TSHIRT-L\/S-PLAIN-CRLMARL-2XL",
+                    "StartPrice": "6.99",
+                    "Quantity": "10",
+                    "VariationSpecifics": {
+                        "NameValueList": [
+                            {
+                                "Name": "Main Colour",
+                                "Value": "Charcoal Melange"
+                            },
+                            {
+                                "Name": "Size,",
+                                "Value": "XXL"
+                            }
+                        ]
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "10",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does Not apply"
+                    }
+                }
+            ],
+            "Pictures": {
+                "VariationSpecificName": "Main Colour",
+                "VariationSpecificPictureSet": [
+                    {
+                        "VariationSpecificValue": "Black",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/iGgAAOSwCb9hTMyx\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/nRgAAOSwDklhTMy7\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/iIUAAOSwCb9hTMy9\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/H08AAOSwTc1hTMy~\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Navy",
+                        "PictureURL": "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/TCIAAOSw7j9hTMzF\/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "White",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/xvoAAOSwH2dhTMza\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/0VAAAOSweHFhTMzh\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/~A0AAOSwZAJhTMzj\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/xw0AAOSwH2dhTMzl\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Engine Red",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/Vu4AAOSws3RhTMzo\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/h2cAAOSwxOthTMz8\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/DqMAAOSwJGlhTMz9\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/TL4AAOSw7j9hTMz~\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Orange",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/JZ0AAOSwMI1hTM0H\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/neoAAOSwDklhTM0N\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/N1UAAOSwsExhTM0P\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/1eYAAOSwfCZhTM0Q\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Green",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/QToAAOSwtihhTM0S\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/TTMAAOSw6SVhTM14\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/v~UAAOSwx1phTM16\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/6JMAAOSwMvFhTM18\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Dark Grey",
+                        "PictureURL": "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/aYIAAOSwH1xhTM0z\/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "Grey Melange",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/oKwAAOSwnx1hTM0k\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/TQwAAOSw7j9hTM0r\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/9h4AAOSw7pFhTM0t\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxMzg4\/z\/1JYAAOSwGBZhTM0v\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Ecru\/Off White",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/qTMAAOSwwOZjaVtd\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/Q3UAAOSwZLhjRhFm\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Denim Blue",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/PiwAAOSw~YNjaVsa\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/QfoAAOSwALdjaVsn\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Wine",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/AhgAAOSw1-1jaVtT\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/F~sAAOSwH9FjRhFb\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Brown",
+                        "PictureURL": [
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/uQcAAOSwCQpjaVtZ\/$_57.JPG?set_id=8800005007",
+                            "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/qHkAAOSwl9xjaVsu\/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "Charcoal Melange",
+                        "PictureURL": "https:\/\/i.ebayimg.com\/00\/s\/MTYwMFgxNjAw\/z\/czgAAOSwdPBjbadq\/$_57.JPG?set_id=8800005007"
+                    }
+                ]
+            },
+            "VariationSpecificsSet": {
+                "NameValueList": [
+                    {
+                        "Name": "Main Colour",
+                        "Value": [
+                            "Black",
+                            "Navy",
+                            "White",
+                            "Engine Red",
+                            "Orange",
+                            "Green",
+                            "Dark Grey",
+                            "Grey Melange",
+                            "Ecru\/Off White",
+                            "Denim Blue",
+                            "Wine",
+                            "Brown",
+                            "Charcoal Melange"
+                        ]
+                    },
+                    {
+                        "Name": "Size,",
+                        "Value": [
+                            "S",
+                            "M",
+                            "L",
+                            "XL",
+                            "XXL",
+                            "3XL"
+                        ]
+                    }
+                ]
+            }
+        },
+        "ConditionID": "1000",
+        "ConditionDisplayName": "New with tags",
+        "QuantityAvailableHint": "MoreThan",
+        "QuantityThreshold": "10",
+        "PostCheckoutExperienceEnabled": "false",
+        "ShippingPackageDetails": {
+            "ShippingIrregular": "false",
+            "ShippingPackage": "PackageThickEnvelope",
+            "WeightMajor": "0",
+            "WeightMinor": "0"
+        },
+        "TopRatedListing": "true",
+        "RelistParentID": "173871517451",
+        "HideFromSearch": "false",
+        "PickupInStoreDetails": {
+            "AvailableForPickupInStore": "true"
+        },
+        "eBayPlus": "false",
+        "eBayPlusEligible": "false",
+        "IsSecureDescription": "true"
+    }
+}
